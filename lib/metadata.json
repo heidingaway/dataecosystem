@@ -1,12 +1,11 @@
 {
   "vaultName": "dataecosystem",
-  "lastExport": 1723169440918,
+  "lastExport": 1723170177838,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "reference/index.md",
     "2023–2026 Data Strategy for the Federal Public Service.md",
     "2024-08-08.md",
     "2024-W32.md",
@@ -31,6 +30,7 @@
     "governance.md",
     "Government of Canada - Gouvernement du Canada - GC - GC.md",
     "Government of the United Kingdom - UK Government.md",
+    "index.md",
     "Information Management Leaders Group.md",
     "Innovation, Science and Economic Development Canada - Innovation, Sciences et Développement économique Canada - ISED - ISDE.md",
     "Law.md",
@@ -41,7 +41,6 @@
     "Privy Council Office.md",
     "Product.md",
     "Product Management.md",
-    "README.md",
     "Statistics Canada - Statistique Canada - StatCan - StatCan.md",
     "Subject Matter Expert.md",
     "Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT.md",
@@ -110,422 +109,416 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "reference/index.md": {
-      "modifiedTime": 1723169440918,
-      "sourceSize": 186,
-      "exportedPath": "reference/index.html",
-      "dependencies": []
-    },
     "2023–2026 Data Strategy for the Federal Public Service.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 633,
       "exportedPath": "2023–2026-data-strategy-for-the-federal-public-service.html",
       "dependencies": []
     },
     "2024-08-08.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 1058,
       "exportedPath": "2024-08-08.html",
       "dependencies": []
     },
     "2024-W32.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 568,
       "exportedPath": "2024-w32.html",
       "dependencies": []
     },
     "Agency.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 136,
       "exportedPath": "agency.html",
       "dependencies": []
     },
     "Assistant Deputy Minister.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 173,
       "exportedPath": "assistant-deputy-minister.html",
       "dependencies": []
     },
     "Assistant Deputy Ministers Committee on Data and Information (ADM-CDI).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 348,
       "exportedPath": "assistant-deputy-ministers-committee-on-data-and-information-(adm-cdi).html",
       "dependencies": []
     },
     "Canada School of Public Service - École de la fonction publique du Canada - CSPS - EFPC.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 377,
       "exportedPath": "canada-school-of-public-service-école-de-la-fonction-publique-du-canada-csps-efpc.html",
       "dependencies": []
     },
     "Central Agency.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 152,
       "exportedPath": "central-agency.html",
       "dependencies": []
     },
     "Chief Data Officer (Canada) (CDO).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 494,
       "exportedPath": "chief-data-officer-(canada)-(cdo).html",
       "dependencies": []
     },
     "Chief Data Officers Council (CDO Council) (CDOC).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 334,
       "exportedPath": "chief-data-officers-council-(cdo-council)-(cdoc).html",
       "dependencies": []
     },
     "Chief Information Officer (Canada) (CIO).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 363,
       "exportedPath": "chief-information-officer-(canada)-(cio).html",
       "dependencies": []
     },
     "Chief Statistician of Canada.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 248,
       "exportedPath": "chief-statistician-of-canada.html",
       "dependencies": []
     },
     "Community of Practice on Data and Information.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 492,
       "exportedPath": "community-of-practice-on-data-and-information.html",
       "dependencies": []
     },
     "Departmental Corporation.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 171,
       "exportedPath": "departmental-corporation.html",
       "dependencies": []
     },
     "dept title - en fr.csv": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 17643,
       "exportedPath": "dept-title-en-fr.csv",
       "dependencies": []
     },
     "Deputy Clerk of the Privy Council and Associate Secretary to the Cabinet.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 352,
       "exportedPath": "deputy-clerk-of-the-privy-council-and-associate-secretary-to-the-cabinet.html",
       "dependencies": []
     },
     "Deputy Minister.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 152,
       "exportedPath": "deputy-minister.html",
       "dependencies": []
     },
     "Enterprise Data Community of Practice (EDCOP).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 242,
       "exportedPath": "enterprise-data-community-of-practice-(edcop).html",
       "dependencies": []
     },
     "Enterprise Data Stewardship Model (EDSM).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 948,
       "exportedPath": "enterprise-data-stewardship-model-(edsm).html",
       "dependencies": []
     },
     "GC Data Community.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 181,
       "exportedPath": "gc-data-community.html",
       "dependencies": []
     },
     "GC Enterprise Endorsement Process (CPDI).md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 1116,
       "exportedPath": "gc-enterprise-endorsement-process-(cpdi).html",
       "dependencies": []
     },
     "governance.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 143,
       "exportedPath": "governance.html",
       "dependencies": []
     },
     "Government of Canada - Gouvernement du Canada - GC - GC.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 279,
       "exportedPath": "government-of-canada-gouvernement-du-canada-gc-gc.html",
       "dependencies": []
     },
     "Government of the United Kingdom - UK Government.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 265,
       "exportedPath": "government-of-the-united-kingdom-uk-government.html",
       "dependencies": []
     },
+    "index.md": {
+      "modifiedTime": 1723170177838,
+      "sourceSize": 186,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
     "Information Management Leaders Group.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 220,
       "exportedPath": "information-management-leaders-group.html",
       "dependencies": []
     },
     "Innovation, Science and Economic Development Canada - Innovation, Sciences et Développement économique Canada - ISED - ISDE.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 605,
       "exportedPath": "innovation,-science-and-economic-development-canada-innovation,-sciences-et-développement-économique-canada-ised-isde.html",
       "dependencies": []
     },
     "Law.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 129,
       "exportedPath": "law.html",
       "dependencies": []
     },
     "Ministerial Department.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 168,
       "exportedPath": "ministerial-department.html",
       "dependencies": []
     },
     "National.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 140,
       "exportedPath": "national.html",
       "dependencies": []
     },
     "National Research Council Canada - Conseil national de recherches Canada - NRC - CNRC.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 331,
       "exportedPath": "national-research-council-canada-conseil-national-de-recherches-canada-nrc-cnrc.html",
       "dependencies": []
     },
     "Privacy Act.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 209,
       "exportedPath": "privacy-act.html",
       "dependencies": []
     },
     "Privy Council Office.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 224,
       "exportedPath": "privy-council-office.html",
       "dependencies": []
     },
     "Product.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 182,
       "exportedPath": "product.html",
       "dependencies": []
     },
     "Product Management.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 160,
       "exportedPath": "product-management.html",
       "dependencies": []
     },
-    "README.md": {
-      "modifiedTime": 1723169440918,
-      "sourceSize": 133,
-      "exportedPath": "readme.html",
-      "dependencies": []
-    },
     "Statistics Canada - Statistique Canada - StatCan - StatCan.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 235,
       "exportedPath": "statistics-canada-statistique-canada-statcan-statcan.html",
       "dependencies": []
     },
     "Subject Matter Expert.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 166,
       "exportedPath": "subject-matter-expert.html",
       "dependencies": []
     },
     "Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 469,
       "exportedPath": "treasury-board-of-canada-secretariat-secrétariat-du-conseil-du-trésor-du-canada-tbs-sct.html",
       "dependencies": []
     },
     "Working Group.md": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 640,
       "exportedPath": "working-group.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1723169440918,
-      "sourceSize": 15742,
+      "modifiedTime": 1723170177838,
+      "sourceSize": 14791,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1723169440918,
-      "sourceSize": 3995,
+      "modifiedTime": 1723170177838,
+      "sourceSize": 3933,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 386,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1723169440918,
+      "modifiedTime": 1723170177838,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
