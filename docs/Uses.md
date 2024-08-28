@@ -11,6 +11,3 @@ share: true
 
 ## UK-DMM Topics
 
-## Incoming Links
-- [Themes (UK-DMM)](./Themes%20(UK-DMM).md)
-

@@ -5,11 +5,7 @@ modified: 2024-08-28
 tags:
   - UK-DMM_THEME
 up:
-  - "[Themes (UK-DMM)](./Themes%2520(UK-DMM).md#)"
+  - "[Themes (UK-DMM)](Themes%20(UK-DMM).md)"
 share: true
 ---
 # Data
-
-## Incoming Links
-- [Themes (UK-DMM)](./Themes%2520(UK-DMM).md.md#)
-

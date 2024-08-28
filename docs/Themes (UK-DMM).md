@@ -8,17 +8,9 @@ up: "[[UK Government Data Maturity Model (UK-DMM) - PROJECT]]"
 share: true
 ---
 # Themes (UK-DMM)
-- [Culture](../Culture.md)
-- [Skills](../Skills.md)
-- [Data](../Data.md)
-- [Leadership](../Leadership.md)
-- [Uses](../Uses.md)
-- [Tools](../Tools.md)
-## Incoming Links
-- [Culture](../Culture.md)
-- [Data](../Data.md)
-- [Leadership](../Leadership.md)
-- [Skills](../Skills.md)
-- [Tools](../Tools.md)
-- [Uses](../Uses.md)
-
+- [Culture](./Culture.md)
+- [Skills](./Skills.md)
+- [Data](./Data.md)
+- [Leadership](./Leadership.md)
+- [Uses](./Uses.md)
+- [Tools](./Tools.md)
