@@ -1,215 +1,395 @@
 ---
 title: Level 4 Developing
 created: 2024-08-15
-modified: 2024-08-28
+modified: 2024-08-29
+up: "[Maturity Levels (UK-DMM)](./Maturity%20Levels%20(UK-DMM).md)"
 tags:
   - UK-DMM
-up: "[[Maturity Levels (UK-DMM)]]"
-BC-list-note-field: down
 share: true
 ---
+⬆️[Maturity Levels (UK-DMM)](./Maturity%20Levels%20(UK-DMM).md)
 # Level 4 Developing
-- [Topic 1 Engaging with others](./Topic%201%20Engaging%20with%20others.md)
-	- [1.1 Making data available to those who need it](./1.1%20Making%20data%20available%20to%20those%20who%20need%20it.md)
-		- [1.1.4](./1.1.4.md)
-	- [1.2 Sharing data with stakeholders and customers](./1.2%20Sharing%20data%20with%20stakeholders%20and%20customers.md)
-		- [1.2.4](./1.2.4.md)
-	- [1.3 Considering the needs of the users when making changes to data](./1.3%20Considering%20the%20needs%20of%20the%20users%20when%20making%20changes%20to%20data.md)
-		- [1.3.4](./1.3.4.md)
-	- [1.4 Sharing data as part of strategy](./1.4%20Sharing%20data%20as%20part%20of%20strategy.md)
-		- [1.4.4](./1.4.4.md)
-	- [1.5 Discussing and learning from mistakes](./1.5%20Discussing%20and%20learning%20from%20mistakes.md)
-		- [1.5.4](./1.5.4.md)
-	- [1.6 Working with internal data users and meeting their needs](./1.6%20Working%20with%20internal%20data%20users%20and%20meeting%20their%20needs.md)
-		- [1.6.4](./1.6.4.md)
-	- [1.7 Working with external data users and meeting their needs](./1.7%20Working%20with%20external%20data%20users%20and%20meeting%20their%20needs.md)
-		- [1.7.4](./1.7.4.md)
-	- [1.8 Engaging with support teams and networks to develop data skills](./1.8%20Engaging%20with%20support%20teams%20and%20networks%20to%20develop%20data%20skills.md)
-		- [1.8.4](./1.8.4.md)
-- [Topic 2 Having the right data skills and knowledge](./Topic%202%20Having%20the%20right%20data%20skills%20and%20knowledge.md)
-	- [2.9 Recognising the importance of data in individual staff’s work](./2.9%20Recognising%20the%20importance%20of%20data%20in%20individual%20staff%E2%80%99s%20work.md)
-		- [2.9.4](./2.9.4.md)
-	- [2.10 Understanding when data can be shared](./2.10%20Understanding%20when%20data%20can%20be%20shared.md)
-		- [2.10.4](./2.10.4.md)
-	- [2.11 Linking data management practices to organisational outcomes](./2.11%20Linking%20data%20management%20practices%20to%20organisational%20outcomes.md)
-		- [2.11.4](./2.11.4.md)
-	- [2.12 Having data and analysis skills in senior leadership positions](./2.12%20Having%20data%20and%20analysis%20skills%20in%20senior%20leadership%20positions.md)
-		- [2.12.4](./2.12.4.md)
-	- [2.13 Valuing and promoting data and analysis expertise in senior leadership roles](./2.13%20Valuing%20and%20promoting%20data%20and%20analysis%20expertise%20in%20senior%20leadership%20roles.md)
-		- [2.13.4](./2.13.4.md)
-	- [2.14 Allocating appropriate resources to improving data literacy across the organisation](./2.14%20Allocating%20appropriate%20resources%20to%20improving%20data%20literacy%20across%20the%20organisation.md)
-		- [2.14.4](./2.14.4.md)
-	- [2.15 Having good data literacy among staff and defined responsibility for data within staff roles](./2.15%20Having%20good%20data%20literacy%20among%20staff%20and%20defined%20responsibility%20for%20data%20within%20staff%20roles.md)
-		- [2.15.4](./2.15.4.md)
-	- [2.16 Engaging with communities of practice and learning networks to develop data skills](./2.16%20Engaging%20with%20communities%20of%20practice%20and%20learning%20networks%20to%20develop%20data%20skills.md)
-		- [2.16.4](./2.16.4.md)
-	- [2.17 Defining responsibility for data within roles and committing to improving staff data literacy](./2.17%20Defining%20responsibility%20for%20data%20within%20roles%20and%20committing%20to%20improving%20staff%20data%20literacy.md)
-		- [2.17.4](./2.17.4.md)
-	- [2.18 Choosing appropriate way to address gaps in data skills](./2.18%20Choosing%20appropriate%20way%20to%20address%20gaps%20in%20data%20skills.md)
-		- [2.18.4](./2.18.4.md)
-	- [2.19 Supporting development of specialist data staff](./2.19%20Supporting%20development%20of%20specialist%20data%20staff.md)
-		- [2.19.4](./2.19.4.md)
-	- [2.20 Providing opportunities for staff to develop data and analysis skills](./2.20%20Providing%20opportunities%20for%20staff%20to%20develop%20data%20and%20analysis%20skills.md)
-		- [2.20.4](./2.20.4.md)
-	- [2.21 Understanding the data and analysis skills that your organisation needs](./2.21%20Understanding%20the%20data%20and%20analysis%20skills%20that%20your%20organisation%20needs.md)
-		- [2.21.4](./2.21.4.md)
-	- [2.22 Making data available and interpretable for different users](./2.22%20Making%20data%20available%20and%20interpretable%20for%20different%20users.md)
-		- [2.22.4](./2.22.4.md)
-- [Topic 3 Having the right systems](../Topic%203%20Having%20the%20right%20systems.md)
-	- [3.23 Allocating appropriate resources to improve tools for data](./3.23%20Allocating%20appropriate%20resources%20to%20improve%20tools%20for%20data.md)
-		- [3.23.4](./3.23.4.md)
-	- [3.24 Having the right tools for analysing data](./3.24%20Having%20the%20right%20tools%20for%20analysing%20data.md)
-		- [3.24.4](./3.24.4.md)
-	- [3.25 Having the right tools for organising and accessing data](./3.25%20Having%20the%20right%20tools%20for%20organising%20and%20accessing%20data.md)
-		- [3.25.4](./3.25.4.md)
-	- [3.26 Having tools that allow appropriate access to internal data](./3.26%20Having%20tools%20that%20allow%20appropriate%20access%20to%20internal%20data.md)
-		- [3.26.4](./3.26.4.md)
-	- [3.27 Planning effectively to ensure adequate tools for data](./3.27%20Planning%20effectively%20to%20ensure%20adequate%20tools%20for%20data.md)
-		- [3.27.4](./3.27.4.md)
-	- [3.28 Keeping tools for data up to date and supported](./3.28%20Keeping%20tools%20for%20data%20up%20to%20date%20and%20supported.md)
-		- [3.28.4](./3.28.4.md)
-	- [3.29 Sharing data internally](./3.29%20Sharing%20data%20internally.md)
-		- [3.29.4](./3.29.4.md)
-	- [3.30 Sharing analytics internally](./3.30%20Sharing%20analytics%20internally.md)
-		- [3.30.4](./3.30.4.md)
-	- [3.31 Having the right tools and systems to collect and store data](./3.31%20Having%20the%20right%20tools%20and%20systems%20to%20collect%20and%20store%20data.md)
-		- [3.31.4](./3.31.4.md)
-	- [3.32 Storing data in organised ways](./3.32%20Storing%20data%20in%20organised%20ways.md)
-		- [3.32.4](./3.32.4.md)
-- [Topic 4 Knowing the data you have](../Topic%204%20Knowing%20the%20data%20you%20have.md)
-	- [4.33 Ensuring findability of data](./4.33%20Ensuring%20findability%20of%20data.md)
-		- [4.33.4](./4.33.4.md)
-	- [4.34 Managing disposal of data in the right way](./4.34%20Managing%20disposal%20of%20data%20in%20the%20right%20way.md)
-		- [4.34.4](./4.34.4.md)
-	- [4.35 Recording the data you hold, and ensuring people can access it](./4.35%20Recording%20the%20data%20you%20hold,%20and%20ensuring%20people%20can%20access%20it.md)
-		- [4.35.4](./4.35.4.md)
-	- [4.36 Keeping good metadata](./4.36%20Keeping%20good%20metadata.md)
-		- [4.36.4](./4.36.4.md)
-- [Topic 5 Making decisions with data](../Topic%205%20Making%20decisions%20with%20data.md)
-	- [5.37 Basing decisions and organisational planning on data](./5.37%20Basing%20decisions%20and%20organisational%20planning%20on%20data.md)
-		- [5.37.4](./5.37.4.md)
-	- [5.38 Linking decisions that affect organisational outcomes to data](./5.38%20Linking%20decisions%20that%20affect%20organisational%20outcomes%20to%20data.md)
-		- [5.38.4](./5.38.4.md)
-	- [5.39 Using data to monitor and improve performance](./5.39%20Using%20data%20to%20monitor%20and%20improve%20performance.md)
-		- [5.39.4](./5.39.4.md)
-	- [5.40 Using data for operational and strategic purposes](./5.40%20Using%20data%20for%20operational%20and%20strategic%20purposes.md)
-		- [5.40.4](./5.40.4.md)
-	- [5.41 Influencing stakeholders with data](./5.41%20Influencing%20stakeholders%20with%20data.md)
-		- [5.41.4](./5.41.4.md)
-	- [5.42 Using data for business planning and strategy](./5.42%20Using%20data%20for%20business%20planning%20and%20strategy.md)
-		- [5.42.4](./5.42.4.md)
-	- [5.43 Using data on customer needs to improve services](./5.43%20Using%20data%20on%20customer%20needs%20to%20improve%20services.md)
-		- [5.43.4](./5.43.4.md)
-	- [5.44 Knowing who uses your products and services](./5.44%20Knowing%20who%20uses%20your%20products%20and%20services.md)
-		- [5.44.4](./5.44.4.md)
-	- [5.45 Targeting services and campaigns](./5.45%20Targeting%20services%20and%20campaigns.md)
-		- [5.45.4](./5.45.4.md)
-	- [5.46 Monitoring product or service performance, and use of resources](./5.46%20Monitoring%20product%20or%20service%20performance,%20and%20use%20of%20resources.md)
-		- [5.46.4](./5.46.4.md)
-- [Topic 6 Managing and using data ethically](../Topic%206%20Managing%20and%20using%20data%20ethically.md)
-	- [6.47 Accounting for limitations in data and how this may introduce bias](./6.47%20Accounting%20for%20limitations%20in%20data%20and%20how%20this%20may%20introduce%20bias.md)
-		- [6.47.4](./6.47.4.md)
-	- [6.48 Ensuring transparency and scrutiny of data processing and analysis](./6.48%20Ensuring%20transparency%20and%20scrutiny%20of%20data%20processing%20and%20analysis.md)
-		- [6.48.4](./6.48.4.md)
-	- [6.49 Considering and mitigating ethical impacts of bias in data](./6.49%20Considering%20and%20mitigating%20ethical%20impacts%20of%20bias%20in%20data.md)
-		- [6.49.4](./6.49.4.md)
-	- [6.50 Meeting accessibility standards for published data](./6.50%20Meeting%20accessibility%20standards%20for%20published%20data.md)
-		- [6.50.4](./6.50.4.md)
-	- [6.51 Ensuring transparency and scrutiny of data](./6.51%20Ensuring%20transparency%20and%20scrutiny%20of%20data.md)
-		- [6.51.4](./6.51.4.md)
-	- [6.52 Understanding interactions of automated data processing and ethical data practices](./6.52%20Understanding%20interactions%20of%20automated%20data%20processing%20and%20ethical%20data%20practices.md)
-		- [6.52.4](./6.52.4.md)
-	- [6.53 Collecting data in inclusive and ethical ways](./6.53%20Collecting%20data%20in%20inclusive%20and%20ethical%20ways.md)
-		- [6.53.4](./6.53.4.md)
-	- [6.54 Creating diverse leadership to support ethical use of data](./6.54%20Creating%20diverse%20leadership%20to%20support%20ethical%20use%20of%20data.md)
-		- [6.54.4](./6.54.4.md)
-	- [6.55 Ensuring responsibility and oversight for data ethics](./6.55%20Ensuring%20responsibility%20and%20oversight%20for%20data%20ethics.md)
-		- [6.55.4](./6.55.4.md)
-	- [6.56 Having the skills to understand ethical management and use of data](./6.56%20Having%20the%20skills%20to%20understand%20ethical%20management%20and%20use%20of%20data.md)
-		- [6.56.4](./6.56.4.md)
-	- [6.57 Ensuring tools for data are inclusive](./6.57%20Ensuring%20tools%20for%20data%20are%20inclusive.md)
-		- [6.57.4](./6.57.4.md)
-- [Topic 7 Managing your data](../Topic%207%20Managing%20your%20data.md)
-	- [7.58 Building a data quality culture](./7.58%20Building%20a%20data%20quality%20culture.md)
-		- [7.58.4](./7.58.4.md)
-	- [7.59 Managing data disposal the right way](./7.59%20Managing%20data%20disposal%20the%20right%20way.md)
-		- [7.59.4](./7.59.4.md)
-	- [7.60 Communicating limitations of data appropriately to users](./7.60%20Communicating%20limitations%20of%20data%20appropriately%20to%20users.md)
-		- [7.60.4](./7.60.4.md)
-	- [7.61 Linking data collection processes to organisational outcomes](./7.61%20Linking%20data%20collection%20processes%20to%20organisational%20outcomes.md)
-		- [7.61.4](./7.61.4.md)
-	- [7.62 Acquiring existing data in the right way](./7.62%20Acquiring%20existing%20data%20in%20the%20right%20way.md)
-		- [7.62.4](./7.62.4.md)
-	- [7.63 Applying data users’ needs to product design](./7.63%20Applying%20data%20users%E2%80%99%20needs%20to%20product%20design.md)
-		- [7.63.4](./7.63.4.md)
-	- [7.64 Collecting data with user needs in mind](./7.64%20Collecting%20data%20with%20user%20needs%20in%20mind.md)
-		- [7.64.4](./7.64.4.md)
-	- [7.65 Conducting data quality assessments](./7.65%20Conducting%20data%20quality%20assessments.md)
-		- [7.65.4](./7.65.4.md)
-	- [7.66 Managing data quality across the data lifecycle](./7.66%20Managing%20data%20quality%20across%20the%20data%20lifecycle.md)
-		- [7.66.4](./7.66.4.md)
-	- [7.67 Understanding the data quality needs of your users](./7.67%20Understanding%20the%20data%20quality%20needs%20of%20your%20users.md)
-		- [7.67.4](./7.67.4.md)
-	- [7.68 Understanding what data processing to automate](./7.68%20Understanding%20what%20data%20processing%20to%20automate.md)
-		- [7.68.4](./7.68.4.md)
-	- [7.69 Building reproducible data processing](./7.69%20Building%20reproducible%20data%20processing.md)
-		- [7.69.4](./7.69.4.md)
-	- [7.70 Applying data standards in your organisation](./7.70%20Applying%20data%20standards%20in%20your%20organisation.md)
-		- [7.70.4](./7.70.4.md)
-	- [7.71 Engaging with cross-government data standards](./7.71%20Engaging%20with%20cross-government%20data%20standards.md)
-		- [7.71.4](./7.71.4.md)
-	- [7.72 Engaging senior leaders with data and its value to the organisation](./7.72%20Engaging%20senior%20leaders%20with%20data%20and%20its%20value%20to%20the%20organisation.md)
-		- [7.72.4](./7.72.4.md)
-- [Topic 8 Protecting your data](../Topic%208%20Protecting%20your%20data.md)
-	- [8.73 Managing policies for data protection and data security](./8.73%20Managing%20policies%20for%20data%20protection%20and%20data%20security.md)
-		- [8.73.4](./8.73.4.md)
-	- [8.74 Controlling access to data](./8.74%20Controlling%20access%20to%20data.md)
-		- [8.74.4](./8.74.4.md)
-	- [8.75 Reviewing governance and security incident responses](./8.75%20Reviewing%20governance%20and%20security%20incident%20responses.md)
-		- [8.75.4](./8.75.4.md)
-	- [8.76 Ensuring business continuity for data](./8.76%20Ensuring%20business%20continuity%20for%20data.md)
-		- [8.76.4](./8.76.4.md)
-	- [8.77 Measuring the effectiveness of your data protection processes](./8.77%20Measuring%20the%20effectiveness%20of%20your%20data%20protection%20processes.md)
-		- [8.77.4](./8.77.4.md)
-	- [8.78 Assessing risks to data assets](./8.78%20Assessing%20risks%20to%20data%20assets.md)
-		- [8.78.4](./8.78.4.md)
-	- [8.79 Training staff to comply with and enforce data protection regulations](./8.79%20Training%20staff%20to%20comply%20with%20and%20enforce%20data%20protection%20regulations.md)
-		- [8.79.4](./8.79.4.md)
-	- [8.80 Training staff to work with data securely](./8.80%20Training%20staff%20to%20work%20with%20data%20securely.md)
-		- [8.80.4](./8.80.4.md)
-	- [8.81 Protecting your data](./8.81%20Protecting%20your%20data.md)
-		- [8.81.4](./8.81.4.md)
-	- [8.82 Recording and securing your data tools and systems](./8.82%20Recording%20and%20securing%20your%20data%20tools%20and%20systems.md)
-		- [8.82.4](./8.82.4.md)
-- [Topic 9 Setting your data direction](../Topic%209%20Setting%20your%20data%20direction.md)
-	- [9.83 Creating and embedding data principles and policies](./9.83%20Creating%20and%20embedding%20data%20principles%20and%20policies.md)
-		- [9.83.4](./9.83.4.md)
-	- [9.84 Communicating data strategy, policies, and principles](./9.84%20Communicating%20data%20strategy,%20policies,%20and%20principles.md)
-		- [9.84.4](./9.84.4.md)
-	- [9.85 Linking data principles and policies to organisational objectives](./9.85%20Linking%20data%20principles%20and%20policies%20to%20organisational%20objectives.md)
-		- [9.85.4](./9.85.4.md)
-	- [9.86 Seeing data as an organisational priority](./9.86%20Seeing%20data%20as%20an%20organisational%20priority.md)
-		- [9.86.4](./9.86.4.md)
-	- [9.87 Linking data strategy to organisational strategy](./9.87%20Linking%20data%20strategy%20to%20organisational%20strategy.md)
-		- [9.87.4](./9.87.4.md)
-	- [9.88 Aligning data goals with organisational needs and outcomes](./9.88%20Aligning%20data%20goals%20with%20organisational%20needs%20and%20outcomes.md)
-		- [9.88.4](./9.88.4.md)
-	- [9.89 Understanding the value of your data to your organisation](./9.89%20Understanding%20the%20value%20of%20your%20data%20to%20your%20organisation.md)
-		- [9.89.4](./9.89.4.md)
-- [Topic 10 Taking responsibility for data](../Topic%2010%20Taking%20responsibility%20for%20data.md)
-	- [10.90 Defining and recording accountability and ownership for data](./10.90%20Defining%20and%20recording%20accountability%20and%20ownership%20for%20data.md)
-		- [10.90.4](./10.90.4.md)
-	- [10.91 Creating and embedding data governance](./10.91%20Creating%20and%20embedding%20data%20governance.md)
-		- [10.91.4](./10.91.4.md)
-	- [10.92 Defining who should have responsibility for data](./10.92%20Defining%20who%20should%20have%20responsibility%20for%20data.md)
-		- [10.92.4](./10.92.4.md)
-	- [10.93 Taking responsibility for recording the data you hold](./10.93%20Taking%20responsibility%20for%20recording%20the%20data%20you%20hold.md)
-		- [10.93.4](./10.93.4.md)
-	- [10.94 Maintaining awareness of data legislation within senior leadership](./10.94%20Maintaining%20awareness%20of%20data%20legislation%20within%20senior%20leadership.md)
-		- [10.94.4](./10.94.4.md)
-	- [10.95 Creating and enforcing structured responsibility and accountability for data](./10.95%20Creating%20and%20enforcing%20structured%20responsibility%20and%20accountability%20for%20data.md)
-		- [10.95.4](./10.95.4.md)
-	- [10.96 Defining oversight and responsibility for ensuring staff have necessary data skills](./10.96%20Defining%20oversight%20and%20responsibility%20for%20ensuring%20staff%20have%20necessary%20data%20skills.md)
-		- [10.96.4](./10.96.4.md)
-	- [10.97 Assigning ownership and responsibility for data tools and systems](./10.97%20Assigning%20ownership%20and%20responsibility%20for%20data%20tools%20and%20systems.md)
-		- [10.97.4](./10.97.4.md)
+# [1.1.4](1.1.4.md)
+
+Beginning to provide ways to access and share data directly, but non-expert staff may require some intervention from specialists to do so. All internal users and some external users have appropriate access to data they need when they need it.
+
+# [1.2.4](1.2.4.md)
+
+Exploring how data could be shared with clients on an individual basis as part of service delivery.
+
+# [1.3.4](1.3.4.md)
+
+Considers and consults some users and re-users of the data when making changes in order to understand their needs. Communicates changes to data clearly, however the approach or format is somewhat inconsistent across the organisation.
+
+# [1.4.4](1.4.4.md)
+
+Beginning to see limited data sharing as a strategic priority. Beginning to define structures of responsibility and accountability for ensuring successful data sharing.
+
+# [1.5.4](1.5.4.md)
+
+Openly discusses data and learns from data problems regularly rather than reactively. People from different teams and levels of seniority regularly discuss data issues and how to act on them. Makes efforts to communicate lessons learned widely, but may not reach all relevant areas of the organisation.
+
+# [1.6.4](1.6.4.md)
+
+Establishes and maintains relationships with high impact internal users of data to understand their needs. Acts on this in all high profile areas and some other important areas. The approach to this is inconsistent across the organisation.
+
+# [1.7.4](1.7.4.md)
+
+Establishes and maintains relationships all high impact external users and most important external users of data to understand their needs. Acts on this in all high profile areas and some other important areas. The approach to this is inconsistent across the organisation.
+
+# [1.8.4](1.8.4.md)
+
+Embeds regular engagement with government support teams and networks in working practices. Keeps up to date with developments in the field as part of ongoing commitment to data literacy.
+
+# [2.9.4](2.9.4.md)
+
+Data advocacy may be present in high value data management or analytical areas of the organisation to support embedding of awareness of data. The approach to this may be unstructured and inconsistent across the organisation.
+
+# [2.10.4](2.10.4.md)
+
+Shares data with appropriate assessments and licencing in place. Beginning to engage with internal and external support networks or expertise. Challenges practices that limit data sharing.
+
+# [2.11.4](2.11.4.md)
+
+Leaders consistently ask about the link between data management work and business outcomes. They are beginning to explore how to ensure that data initiatives are connected to the outcomes that they support.
+
+# [2.12.4](2.12.4.md)
+
+Addressing data and analysis skills gap in leadership as a whole. All senior leaders are confident in making some use of analyses and data without support, and many are capable of making extensive use of analyses and data with some support.
+
+# [2.13.4](2.13.4.md)
+
+Has people in leadership positions with a range of data and analysis expertise who are visible and demonstrate good practice.
+
+# [2.14.4](2.14.4.md)
+
+Beginning to commit to upskilling all staff working with data. This occurs inconsistently across the organisation without coordinated senior oversight.
+
+# [2.15.4](2.15.4.md)
+
+Increased data literacy and responsibility across the organisation. Defines dedicated responsibilities for data management and data architecture within staff roles.
+
+# [2.16.4](2.16.4.md)
+
+Embeds structured engagement with data learning networks and communities of practice across the organisation. Makes this visible to all staff.
+
+# [2.17.4](2.17.4.md)
+
+Has established dedicated, consistent data responsibilities defined within staff roles with several people responsible for data in different roles or teams. Beginning to commit to improving data and analytical literacy across the organisation, but the approach is inconsistent in different areas.
+
+# [2.18.4](2.18.4.md)
+
+Carefully considers different options when addressing data skill gaps in most areas and clearly links these to the organisation’s long and short term skill needs. However, the approach is not consistently embedded across the organisation.
+
+# [2.19.4](2.19.4.md)
+
+Specialist staff working with data have some support to improve their skills. The approach is organised and coordinated, but inconsistent across different areas of the organisation. Has a clear understanding of what specialist data skills are present in the organisation.
+
+# [2.20.4](2.20.4.md)
+
+Individuals responsible for data have advanced training and skills and regularly engage in learning to develop and improve systems and embed these across the organisation.
+
+# [2.21.4](2.21.4.md)
+
+Understands data and analytical skills needs and gaps in important output areas. Opportunities to develop data and analytical skills are visible and available to both specialist and non-specialist staff.
+
+# [2.22.4](2.22.4.md)
+
+Enables most internal users and some external users to interactively explore, analyse and report on the organisation’s data. Non data specialists are able to do so with minimal specialist support, if any.
+
+# [3.23.4](3.23.4.md)
+
+Beginning to proactively commit resources to improving and replacing data systems and tools. Changes made are linked to organisational needs and outcomes. This occurs inconsistently across the organisation without coordinated senior oversight.
+
+# [3.24.4](3.24.4.md)
+
+Tools for analysis are in line with the organisation’s needs and enable analysts to produce effective, efficient outputs.
+
+# [3.25.4](3.25.4.md)
+
+Regularly reviews tools for organising and accessing data to ensure they are adequate and proportionate for current and short-term future needs. Some awareness of tools that might be relevant to the organisation in the future, but interest and buy-in at senior levels is limited.
+
+# [3.26.4](3.26.4.md)
+
+Tools allow for effective, direct access to internal data for appropriate expert and non-expert users. Exploring tools to support secure, direct access to data for external users.
+
+# [3.27.4](3.27.4.md)
+
+Commits resources to new and existing systems and tools across the organisation, but the approach is inconsistent. Proactively considers and costs replacements and upgrades for all critical and some important systems and tools.
+
+# [3.28.4](3.28.4.md)
+
+Most data tools are up to date with support available. Communicates some work-arounds for inadequate tools, but inconsistently. Actively plans replacements for poorer tools.
+
+# [3.29.4](3.29.4.md)
+
+Data storage tools allow for internal sharing across the organisation, with internal and external access managed appropriately. Tools in use in some areas of the organisation are not proportionate to data and analytical needs. Non-experts are able to access most data without specialist support.
+
+# [3.30.4](3.30.4.md)
+
+Self-service analytics available both inside the organisation and to some relevant external partners and stakeholders. Non-expert users may require support from data and analysis specialists in order to make effective use of analytics.
+
+# [3.31.4](3.31.4.md)
+
+Collects and automatically stores data digitally wherever possible eg online forms or apps directly into databases. Beginning to break down silos by increasing interlinking between systems and tools.
+
+# [3.32.4](3.32.4.md)
+
+Stores all important data relevant to important business operations and outcomes in secure, backed-up digital systems with managed access where possible.
+
+# [4.33.4](4.33.4.md)
+
+Documents all critical and important data sets in a central location, with the location of the data set. The data is available to those who need it through efficient, structured, well-communicated routes. Most data can be accessed without specialist support.
+
+# [4.34.4](4.34.4.md)
+
+Automates disposal of data in line with legal requirements and the long-term value of the data. Documents processes for data disposal clearly, and reviews them in tandem with changes to the data.
+
+# [4.35.4](4.35.4.md)
+
+Has a comprehensive and standardised register of data assets with efficient and appropriately governed internal access. Exploring processes for a public access layer for transparency of the nature assets held by the organisation that cannot be accessed directly, but this may be poorly communicated.
+
+# [4.36.4](4.36.4.md)
+
+Includes information in metadata regarding why the data set was created or acquired, and the purposes and users for which the data set was created. Marks sensitivity of data in critical data sets, but this may be inconsistent across the organisation. Standardises metadata based on some understanding of user needs.
+
+# [5.37.4](5.37.4.md)
+
+Monitors what is happening in the present as well as past trends. Some exploratory forward-looking research and predictions.
+
+# [5.38.4](5.38.4.md)
+
+Links decisions that affect all critical and some important organisational outcomes to data. Considers the needs of customers and users when making changes based on data. This is applied inconsistently across the organisation.
+
+# [5.39.4](5.39.4.md)
+
+Leaders make use of data to monitor and improve performance in all critical areas and some important areas. Senior leaders actively question these data sources and support efforts to improve or broaden the data used for these purposes. The approach is somewhat inconsistent across different areas of the organisation.
+
+# [5.40.4](5.40.4.md)
+
+Actively exploring more ways to get more value out of data for operational and strategic purposes.
+
+# [5.41.4](5.41.4.md)
+
+Can coherently make the case to stakeholders and budget holders for existing and new services, products, and campaigns.
+
+# [5.42.4](5.42.4.md)
+
+Consistently uses data to understand which approaches work and which do not. Strategic planning and decision making are consistently informed by data.
+
+# [5.43.4](5.43.4.md)
+
+Collects data to understand and evidence a range of customer and user needs. Beginning to use this data as part of discussions for changing, updating, or introducing products and services.
+
+# [5.44.4](5.44.4.md)
+
+Regularly reviews and adapts services, products and campaigns in response to data to optimise outcomes. Designs services to ensure inclusion and protection for societal groups who could be negatively impacted by the organisation’s data. Applies this somewhat inconsistently across different areas of the organisation.
+
+# [5.45.4](5.45.4.md)
+
+Uses data to understand the needs of end users and internal users. Consistently uses this understanding to improve efficiency and effectiveness of targeting services, products, and campaigns at specific groups and geographic locations.
+
+# [5.46.4](5.46.4.md)
+
+Uses data to actively improve all critical areas of organisational performance, and some important areas. Actively seeks data and makes use of multiple data sources, including feedback from users or customers.
+
+# [6.47.4](6.47.4.md)
+
+Accounts for limitations in all high profile data sets and some important data sets that may introduce bias. This occurs consistently for high profile areas, but pockets of the organisation still struggle to apply this consistently.
+
+# [6.48.4](6.48.4.md)
+
+Ensures routes for public scrutiny of processing and analysis of data are visible and well communicated where possible. Considers transparency and public scrutiny from the beginning as a fundamental part of all high profile processes.
+
+# [6.49.4](6.49.4.md)
+
+Seeks guidance from external data ethics advisory board. Consults with stakeholders in civil society groups or academia to improve ethical use of data. High profile projects may include public consultation.
+
+# [6.50.4](6.50.4.md)
+
+Beginning to ensure that all prominent active publications meet accessibility requirements.
+
+# [6.51.4](6.51.4.md)
+
+Engages with users to ensure appropriate transparency and accountability in structured ways. Some parts of the organisation consistently consider how to ensure appropriate public visibility from the start when planning data initiatives.
+
+# [6.52.4](6.52.4.md)
+
+Consistently considers the risks and benefits of automation in all high profile areas, and beginning to do so in other areas. Understands where automation is proportionate, mitigates risks appropriately, and plans to do so from early stages for all processes, though this may be inconsistent across the organisation. Considers oversight, transparency, and public scrutiny from early stages of automation initiatives, and consistently documents all changes.
+
+# [6.53.4](6.53.4.md)
+
+Embeds transparency, inclusivity and accessibility in data collection methods from the beginning. Checks data collection processes for bias, with actions to mitigate bias recorded and communicated. Applies this somewhat inconsistently in different areas of the organisation.
+
+# [6.54.4](6.54.4.md)
+
+Has an increasingly diverse leadership team which is beginning to support depth and breadth in considerations of data ethics.
+
+# [6.55.4](6.55.4.md)
+
+Senior leaders are engaged with ensuring oversight and scrutiny is in place for the ethical use of data across the organisation. Lines of responsibility and accountability for data ethics are structured, though visibility of this may be limited. Champions for data ethics are present in the organisation, however they may lack the seniority or the reach to have a large impact.
+
+# [6.56.4](6.56.4.md)
+
+Staff have the skills to understand the unintended consequences of data collection and use, and how misuse of data can reinforce existing problems in the treatment of different societal groups.
+
+# [6.57.4](6.57.4.md)
+
+Designs new tools with inclusivity and accessibility in mind for all users from the earliest stages of the design process.
+
+# [7.58.4](7.58.4.md)
+
+Consistently links data quality to the risks it poses to business outcomes. Aware of trade-offs in data quality in line with the needs of users and the purposes of data.
+
+# [7.59.4](7.59.4.md)
+
+All staff working with data understand their responsibilities to ensuring records are able to be created and preserved of all appropriate data. Responsibility for disposal of data is defined and recorded alongside all data assets, but implementation is inconsistent across the organisation.
+
+# [7.60.4](7.60.4.md)
+
+Understands and communicates limitations of data. Understands the needs of most important users of the data and communicates in a way that meets these needs, using a range of appropriate routes. The approach to this is inconsistent across different areas of the organisation.
+
+# [7.61.4](7.61.4.md)
+
+Understands the need to collect data that is attached to business needs, and to avoid collecting data that is not. Incorporates this in critical business process in some areas of the organisation. Regularly plans ahead regarding the collection or use of data but this is not embedded from beginning to end. Considers and records methods and errors and is beginning to address these in higher profile initiatives.
+
+# [7.62.4](7.62.4.md)
+
+Understands the value of using existing data rather than collecting new data and which is most appropriate. Makes good use of open data sets where appropriate but does not fully embed the approach from beginning to end. Records and communicates licencing of data acquired from other sources but this approach is not fully embedded from beginning to end. Plans for effects of licencing on long-term preservation of data sets containing acquired data but this approach is not fully embedded from beginning to end.
+
+# [7.63.4](7.63.4.md)
+
+Has a good understanding of data users and their needs though this may be inconsistent across the organisation. Beginning to incorporate and apply data users’ needs in product design and development, but this is not embedded from beginning to end.
+
+# [7.64.4](7.64.4.md)
+
+Has a good understanding the needs of the user providing data, and of user-centred design and methods, though this may be inconsistent across the organisation. Incorporates and applies this understanding to product design and development in some areas, but may not embed this from beginning to end.
+
+# [7.65.4](7.65.4.md)
+
+Proactively monitors the quality of data in important data sets is in a way that is linked to purpose, documented and communicated. Conducts data quality assessments that are evidence-based and tracked over time.
+
+# [7.66.4](7.66.4.md)
+
+Puts resources and processes in place for managing data quality at all stages of the data lifecycle, but does not apply this consistently across the organisation.
+
+# [7.67.4](7.67.4.md)
+
+Actively engages with a wide range of internal users to understand their data quality needs and reviews these needs regularly. Beginning to communicate data quality alongside high profile data sets.
+
+# [7.68.4](7.68.4.md)
+
+Has a good understanding of what data processing can and should be automated for high profile areas, and is beginning to apply this consistently across the organisation. Considers what automation is useful and proportionate in the long-term to achieve efficiency and quality but with some inconsistency.
+
+# [7.69.4](7.69.4.md)
+
+Designs, tests and documents all important data processing. Tests include typical changes that may occur. Testing strategy may be considered after processes are created. Most processes are clearly documented, documentation is communicated and available as appropriate. The approach is somewhat inconsistent across different areas of the organisation.
+
+# [7.70.4](7.70.4.md)
+
+Beginning to apply data standards consistently enough to allow data to be re-used internally for a range of purposes. Some data is re-usable externally but with limited scope.
+
+# [7.71.4](7.71.4.md)
+
+Actively applying most cross-government data standards. Exploring shared measures and benchmarks with other organisations.
+
+# [7.72.4](7.72.4.md)
+
+Leaders are beginning to engage with the value of data throughout the data lifecycle. They ask the right questions of data, are active in harnessing its value, and supportive of the organisation’s data needs.
+
+# [8.73.4](8.73.4.md)
+
+Communicates and enforces policies for data protection and data security consistently. Beginning to embed policies across all levels of the organisation.
+
+# [8.74.4](8.74.4.md)
+
+Consistent and comprehensive security and security governance policies are in place for all critical data assets. Clearly links security vetting and background checks of all staff to data security and legitimate business need.
+
+# [8.75.4](8.75.4.md)
+
+Regularly reviews and assesses all governance and security controls regularly for effectiveness. Recording of reviews is clear and consistent, though not consistently available as appropriate. Reviews all security incidents promptly and takes appropriate, proportionate actions.
+
+# [8.76.4](8.76.4.md)
+
+Has business continuity plans for data in place for all areas of the organisation with central oversight. There are clear lines of ownership for plans and they are regularly tested with actions planned for improvements.
+
+# [8.77.4](8.77.4.md)
+
+Actively engages internally to ensure that data protection impact assessments and improvements are understood and valued across the organisation.
+
+# [8.78.4](8.78.4.md)
+
+Routinely assesses data assets for their value to the organisation’s outcomes and assigns appropriate levels of sensitivity. Assigns ownership of data assets but this may not be fully embedded or communicated.
+
+# [8.79.4](8.79.4.md)
+
+Firmly embeds data protection and compliance with data regulations within staff training. Non-specialist staff are not fully confident in applying this training without support.
+
+# [8.80.4](8.80.4.md)
+
+Staff are confident in their understanding of data security requirements. The organisation is committed to embedding and instilling good security practice in people who work with data.
+
+# [8.81.4](8.81.4.md)
+
+Considers risks and security requirements throughout the development of new systems and tools. Monitors systems and data access for misuse or attack.
+
+# [8.82.4](8.82.4.md)
+
+Standardised processes for recording IT assets are embedded. The value and sensitivity of data is a priority element of recording physical IT assets. Physical security measures for all recorded IT assets are regularly reviewed and linked to the value and sensitivity of the data they hold.
+
+# [9.83.4](9.83.4.md)
+
+People are aware of Data Principles and policies and they are supported by senior leaders.
+
+# [9.84.4](9.84.4.md)
+
+Actively working to embed data strategy, principles and policies across the organisation.
+
+# [9.85.4](9.85.4.md)
+
+Leaders have clear sight of how and why data objectives, data principles and data policies link to organisational objectives. These links surface in data policies and data principles, but the approach is somewhat inconsistent.
+
+# [9.86.4](9.86.4.md)
+
+Leaders see data as an organisational priority, and especially so in high impact projects or work. Senior leadership teams model good data culture and are working to embed this culture throughout the organisation.
+
+# [9.87.4](9.87.4.md)
+
+Leaders see data as a priority. Prioritises and plans data strategy as part of organisational strategy, though application may not be consistent across the organisation. Data strategy has sponsorship at a senior level.
+
+# [9.88.4](9.88.4.md)
+
+Aligns data practices with work plans, though communication of this may not be clear outside of data specialists. Aligns data goals with the organisation’s current needs, outcomes, and strategies, though application of this may be inconsistent across the organisation.
+
+# [9.89.4](9.89.4.md)
+
+Has a good understanding of the value of most of the data the organisation holds and making attempts to quantify this.
+
+# [10.90.4](10.90.4.md)
+
+Assigns ownership to all critical data. Beginning to assign ownership to other important data. Clearly documents data ownership and data owners’ responsibilities in a way that is findable for all staff. Processes around this are inconsistently applied across the organisation.
+
+# [10.91.4](10.91.4.md)
+
+Robust, needs-based governance frameworks are embedded in the organisation.
+
+# [10.92.4](10.92.4.md)
+
+Clearly defines and implements roles, responsibilities, and accountabilities for data management across the organisation, with good visibility.
+
+# [10.93.4](10.93.4.md)
+
+Understands and enforces accountability for updates and maintenance of the register of data assets. Resources for maintenance are not fully allocated.
+
+# [10.93.4](10.93.4.md)
+Understands and enforces accountability for updates and maintenance of the register of data assets. Resources for maintenance are not fully allocated.
+# [10.95.4](10.95.4.md)
+Leaders are invested in ensuring that responsibility, accountability and oversight for data is structured, maintained, and enforced.
+# [10.96.4](10.96.4.md)
+
+A senior person or team brings organisation-wide data together. Development of data and analytical skills has oversight and sponsorship at a senior level.
+
+# [10.97.4](10.97.4.md)
+
+People are formally responsible for managing the storage, cleaning and maintenance, security, and backup of all data. Where possible this is becoming routine and/or automated.
+
