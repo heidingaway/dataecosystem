@@ -4,6 +4,8 @@ created: 2024-08-08
 modified: 2024-08-28
 tags:
   - UK-DMM_topics
+  - PROJECT
+  - UK-DMM
 up:
   - "[Topics (UK-DMM)](./Topics%2520(UK-DMM).md#)"
 next: "[[Topic 2 Having the right data skills and knowledge]]"
@@ -169,7 +171,7 @@ BC-list-note-field: down
 - [Foresight on AI Policy considerations](./Foresight%20on%20AI%20Policy%20considerations.md): [TBR](../TBR.md)
 - [Findability](../Findability.md): [data_concept - RESOURCE](../data_concept%20-%20RESOURCE.md)
 - [Fall 2024 Agenda (PCWG)](./Fall%202024%20Agenda%20(PCWG).md): 
-    - [People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)
+    - [People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)
 
 - [Foundational Pillars (datastrategy2026)](../Foundational%20Pillars%20(datastrategy2026).md): [2023–2026 Data Strategy for the Federal Public Service](../2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)
 - [FAIR principles assessment tool](../FAIR%20principles%20assessment%20tool.md): [policy_instrument - RESOURCE](../policy_instrument%20-%20RESOURCE.md)
@@ -199,7 +201,7 @@ BC-list-note-field: down
 - [Government of Canada - Gouvernement du Canada - GC - GC](../Government%20of%20Canada%20-%20Gouvernement%20du%20Canada%20-%20GC%20-%20GC.md): \-
 - [Guiding Principles (datastrategy2026)](../Guiding%20Principles%20(datastrategy2026).md): [2023–2026 Data Strategy for the Federal Public Service](../2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)
 - [Government of Canada Data Competency Framework (DDN3‑J03) (DCF)](../Government%20of%20Canada%20Data%20Competency%20Framework%20(DDN3%E2%80%91J03)%20(DCF).md): 
-    - [People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)
+    - [People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)
     - [GC Data Community Team (GCDC) - AREA](../GC%20Data%20Community%20Team%20(GCDC)%20-%20AREA.md)
 
 - [Government of the United Kingdom   UK Government](./Government%20of%20the%20United%20Kingdom%20%20%20UK%20Government.md): [National](../National.md)
@@ -485,7 +487,7 @@ BC-list-note-field: down
 
 
 - [periodic notes - AREA](../periodic%20notes%20-%20AREA.md): [AREA](../AREA.md)
-- [People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md): 
+- [People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md): 
     - [Community of Practice on Data and Information (CPDI)](../Community%20of%20Practice%20on%20Data%20and%20Information%20(CPDI).md)
 
 - [Performance Management Agreement 2024-25](../Performance%20Management%20Agreement%202024-25.md): [Career Management - AREA](../Career%20Management%20-%20AREA.md)
@@ -2736,7 +2738,7 @@ BC-list-note-field: down
 - [Uses](./Uses.md): [Themes (UK-DMM)](./Themes%20(UK-DMM).md)
 - [Work Description Template - Chief Data Officer - PROJECT](../Work%20Description%20Template%20-%20Chief%20Data%20Officer%20-%20PROJECT.md): 
     - [GC Data Ecosystem - AREA](../GC%20Data%20Ecosystem%20-%20AREA.md)
-    - [People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)
+    - [People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)
     - [2023–2026 Data Strategy for the Federal Public Service](../2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)
     - [Mission 1.1a](../Mission%201.1a.md)
 
