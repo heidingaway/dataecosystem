@@ -5,6 +5,7 @@ modified: 2024-08-08
 share: true
 tags:
   - documentation
+  - PCWG
 ---
 # Data Ecosystem - Obsidian Help
 
@@ -16,7 +17,6 @@ tags:
 ## Areas
 - [we are data people - AREA](../we%20are%20data%20people%20-%20AREA.md)
 - [Reading - AREA](../Reading%20-%20AREA.md)
-- [People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)
 - [GCDC Onboarding Guide](../GCDC%20Onboarding%20Guide.md)
 - [GC Data Community Team (GCDC) - AREA](../GC%20Data%20Community%20Team%20(GCDC)%20-%20AREA.md)
 - [GC Data Community Drop-in - AREA](../GC%20Data%20Community%20Drop-in%20-%20AREA.md)
@@ -26,6 +26,7 @@ tags:
 - [Career Management - AREA](../Career%20Management%20-%20AREA.md)
 - [AREA](../AREA.md)
 - [periodic notes - AREA](../periodic%20notes%20-%20AREA.md)
+- [People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)
 
 ## Resources
 - [Unified Data and Information Lifecycle - RESOURCE](../Unified%20Data%20and%20Information%20Lifecycle%20-%20RESOURCE.md)

@@ -3,12 +3,12 @@ title: Fall 2024 Agenda (PCWG)
 created: 2024-08-19
 modified: 2024-08-29
 up:
-  - "[People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)"
+  - "[People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)"
 tags:
   - PCWG
 share: true
 ---
-[People and Culture Working Group - AREA](../People%20and%20Culture%20Working%20Group%20-%20AREA.md)⤴️
+[People and Culture Working Group - AREA](./People%20and%20Culture%20Working%20Group%20-%20AREA.md)⤴️
 # Fall 2024 Agenda (PCWG)
 
 # Deliverable
