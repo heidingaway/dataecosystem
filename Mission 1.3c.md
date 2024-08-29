@@ -1,0 +1,16 @@
+---
+title: Mission 1.3c
+created: 2024-08-19
+modified: 2024-08-19
+up:
+  - - Mission 1.3
+tags:
+  - datastrategy2026_mission
+  - PCWG
+dept_lead:
+  - - Ministerial Department
+pillar:
+  - - Pillar 2 Processes and tools
+---
+# [Mission 1.3c](Mission%201.3c.md)
+Departments will implement a framework for the proactive consideration of data activities in Memoranda to Cabinet and Treasury Board submissions based on the guidance provided
