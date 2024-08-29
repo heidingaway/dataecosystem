@@ -13,6 +13,9 @@ share: true
 
 # Deliverable
 - [ ] MVP of a [Data Maturity Assessment for the GC](./Data%20Maturity%20Assessment%20for%20the%20GC.md) #PCWG 📅 2024-12-13
+	- [ ] draft text for publication
+	- [ ] Implementation Guide
+	- [ ] Implementation Tool Kit
 ## September 2024
 [September 2024 Agenda (PCWG)](../September%202024%20Agenda%20(PCWG).md)
 - Welcome and announcements
