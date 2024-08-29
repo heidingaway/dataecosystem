@@ -4,7 +4,6 @@ created: 2024-07-19
 modified: 2024-08-29
 tags:
   - changemgt
-  - PCWG
 up: "[Prosci 3-Phase Process (lit)](../Prosci%203-Phase%20Process%20(lit).md)"
 next: 
 prev: 
