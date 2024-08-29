@@ -120,12 +120,12 @@ BC-list-note-field: down
 - [Data](./Data.md): 
     - [Themes (UK-DMM)](./Themes%20(UK-DMM).md)
 
-- [datapeople - 2024-08-23](../datapeople%20-%202024-08-23.md): [we are data people - AREA](../we%20are%20data%20people%20-%20AREA.md)
+- [datapeople - 2024-08-23](../datapeople%20-%202024-08-23.md): [we are data people - AREA](./we%20are%20data%20people%20-%20AREA.md)
 - [Data Stewardship Sub-Working Group (CPDI)](../Data%20Stewardship%20Sub-Working%20Group%20(CPDI).md): [Community of Practice on Data and Information (CPDI)](../Community%20of%20Practice%20on%20Data%20and%20Information%20(CPDI).md)
 - [Data Talent Initiative (GCDC) - AREA](../Data%20Talent%20Initiative%20(GCDC)%20-%20AREA.md): 
     - [GC Data Community Team (GCDC) - AREA](../GC%20Data%20Community%20Team%20(GCDC)%20-%20AREA.md)
 
-- [data_concept - RESOURCE](../data_concept%20-%20RESOURCE.md): [Data - AREA](Data%20-%20AREA.md)
+- [data_concept - RESOURCE](../data_concept%20-%20RESOURCE.md): [Data - RESOURCE](./Data%20-%20RESOURCE.md)
 - [Deputy Clerk of the Privy Council and Associate Secretary to the Cabinet](../Deputy%20Clerk%20of%20the%20Privy%20Council%20and%20Associate%20Secretary%20to%20the%20Cabinet.md): [gc_role - RESOURCE](../gc_role%20-%20RESOURCE.md)
 - [Deputy Minister](../Deputy%20Minister.md): [gc_title - RESOURCE](../gc_title%20-%20RESOURCE.md)
 - [Department of Finance Canada - Ministère des Finances Canada - FIN - FIN](../Department%20of%20Finance%20Canada%20-%20Minist%C3%A8re%20des%20Finances%20Canada%20-%20FIN%20-%20FIN.md): \-
@@ -162,7 +162,6 @@ BC-list-note-field: down
 - [Emily Eve Gravel](../Emily%20Eve%20Gravel.md): [Contacts - AREA](../Contacts%20-%20AREA.md)
 - [Engagement and Innovation (GCDC)](../Engagement%20and%20Innovation%20(GCDC).md): [Team Structure (GCDC)](../Team%20Structure%20(GCDC).md)
 - [EC-06 Team Lead (GCDC)](../EC-06%20Team%20Lead%20(GCDC).md): [Engagement and Innovation (GCDC)](../Engagement%20and%20Innovation%20(GCDC).md)
-- [Enterprise Data Stewardship Model (EDSM) - PROJECT](../Enterprise%20Data%20Stewardship%20Model%20(EDSM)%20-%20PROJECT.md): [PROJECT](../PROJECT.md)
 - [Exit Ticket](../Exit%20Ticket.md): [Learning Evaluation Tool](../Learning%20Evaluation%20Tool.md)
 - [Enterprise Data Community of Practice (EDCOP)](../Enterprise%20Data%20Community%20of%20Practice%20(EDCOP).md): [communities_networks_centres - ARCHIVE](../communities_networks_centres%20-%20ARCHIVE.md)
 - [Executives (EX)](../Executives%20(EX).md): [gc_classification - RESOURCE](gc_classification%20-%20RESOURCE.md)
@@ -191,7 +190,7 @@ BC-list-note-field: down
 - [GC Digital Policy Suite](../GC%20Digital%20Policy%20Suite.md): [Digital Government - RESOURCE](../Digital%20Government%20-%20RESOURCE.md)
 - [gc_title - RESOURCE](../gc_title%20-%20RESOURCE.md): [pap - RESOURCE](../pap%20-%20RESOURCE.md)
 - [gc_role - RESOURCE](../gc_role%20-%20RESOURCE.md): [pap - RESOURCE](../pap%20-%20RESOURCE.md)
-- [GCDC Onboarding Guide](../GCDC%20Onboarding%20Guide.md): [GC Data Community Team (GCDC) - AREA](../GC%20Data%20Community%20Team%20(GCDC)%20-%20AREA.md)
+- [GCDC Onboarding Guide](./GCDC%20Onboarding%20Guide.md): [GC Data Community Team (GCDC) - AREA](../GC%20Data%20Community%20Team%20(GCDC)%20-%20AREA.md)
 - [Global Affairs Canada - Affaires mondiales Canada - GAC - AMC](../Global%20Affairs%20Canada%20-%20Affaires%20mondiales%20Canada%20-%20GAC%20-%20AMC.md): [Ministerial Department](../Ministerial%20Department.md)
 - [Governance and Fluency (GCDC)](../Governance%20and%20Fluency%20(GCDC).md): [Team Structure (GCDC)](../Team%20Structure%20(GCDC).md)
 - [governance_body - RESOURCE](../governance_body%20-%20RESOURCE.md): [governance - RESOURCE](../governance%20-%20RESOURCE.md)
@@ -504,7 +503,7 @@ BC-list-note-field: down
 - [policy_instrument - RESOURCE](../policy_instrument%20-%20RESOURCE.md): [pap - RESOURCE](../pap%20-%20RESOURCE.md)
 - [Program Requirements (MPPA)](../Program%20Requirements%20(MPPA).md): [Master of Public Policy and Administration (Carleton)](../Master%20of%20Public%20Policy%20and%20Administration%20(Carleton).md)
 - [Product](./Product.md): [pap - RESOURCE](../pap%20-%20RESOURCE.md)
-- [PROJECT](../PROJECT.md): [README](./README.md)
+- [PROJECT](./PROJECT.md): [README](./README.md)
 - [Proficiency Level (DCF)](../Proficiency%20Level%20(DCF).md): [Government of Canada Data Competency Framework (DDN3‑J03) (DCF)](../Government%20of%20Canada%20Data%20Competency%20Framework%20(DDN3%E2%80%91J03)%20(DCF).md)
 - [Project Management - RESOURCE](./Project%20Management%20-%20RESOURCE.md): [RESOURCE](../RESOURCE.md)
 - [Prolific Thinker](../Prolific%20Thinker.md): [Linking Your Thinking (lit)](../Linking%20Your%20Thinking%20(lit).md)
@@ -2716,10 +2715,10 @@ BC-list-note-field: down
 
 - [Topic 9 Setting your data direction](../Topic%209%20Setting%20your%20data%20direction.md): [Topics (UK-DMM)](./Topics%2520(UK-DMM).md.md#)
 - [UK Government Data Maturity Model (UK-DMM) - PROJECT](./UK%20Government%20Data%20Maturity%20Model%20(UK-DMM)%20-%20PROJECT.md): 
-    - [PROJECT](../PROJECT.md)
+    - [PROJECT](./PROJECT.md)
 
 - [unclassified](../unclassified.md): [Information Management - RESOURCE](Information%20Management%20-%20RESOURCE.md)
-- [Trauma Informed Design - RESOURCE](../Trauma%20Informed%20Design%20-%20RESOURCE.md): [Design - RESOURCE](../Design%20-%20RESOURCE.md)
+- [Trauma Informed Design - RESOURCE](./Trauma%20Informed%20Design%20-%20RESOURCE.md): [Design - RESOURCE](../Design%20-%20RESOURCE.md)
 - [Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT](../Treasury%20Board%20of%20Canada%20Secretariat%20-%20Secr%C3%A9tariat%20du%20Conseil%20du%20Tr%C3%A9sor%20du%20Canada%20-%20TBS%20-%20SCT.md): [Central Agency](../Central%20Agency.md)
 - [Trevor Banks](../Trevor%20Banks.md): 
     - 
@@ -2741,8 +2740,10 @@ BC-list-note-field: down
     - [Mission 1.1a](../Mission%201.1a.md)
 
 - [Working Group](../Working%20Group.md): [pap - RESOURCE](../pap%20-%20RESOURCE.md)
-- [we are data people - AREA](../we%20are%20data%20people%20-%20AREA.md): \-
+- [we are data people - AREA](./we%20are%20data%20people%20-%20AREA.md): [AREA](../AREA.md)
 - [2024-08-29](../2024-08-29.md): [periodic notes - AREA](../periodic%20notes%20-%20AREA.md)
+- [Enterprise Data Stewardship Model (EDSM) - RESOURCE](../Enterprise%20Data%20Stewardship%20Model%20(EDSM)%20-%20RESOURCE.md): [Community of Practice on Data and Information (CPDI)](../Community%20of%20Practice%20on%20Data%20and%20Information%20(CPDI).md)
+- [Data - RESOURCE](./Data%20-%20RESOURCE.md): [RESOURCE](../RESOURCE.md)
 
 
 
