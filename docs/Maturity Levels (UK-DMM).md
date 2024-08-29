@@ -3,7 +3,7 @@ title: Maturity Levels (UK-DMM)
 created: 2024-08-15
 modified: 2024-08-28
 tags:
-  - UK-DMM_level
+  - UK-DMM
 up: "[[UK Government Data Maturity Model (UK-DMM) - PROJECT]]"
 share: true
 ---
