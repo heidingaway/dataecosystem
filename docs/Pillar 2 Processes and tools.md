@@ -4,7 +4,6 @@ created: 2024-08-13
 modified: 2024-08-29
 tags:
   - datastrategy2026_pillar
-  - PCWG
 up: "[[Foundational Pillars (datastrategy2026)]]"
 down: 
 next: 
