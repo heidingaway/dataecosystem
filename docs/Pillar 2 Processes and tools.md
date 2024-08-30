@@ -13,7 +13,7 @@ share: true
 ⬅️[Pillar 1 Governance](./Pillar%201%20Governance.md) | [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)⤴️| [Pillar 3 Talent](./Pillar%203%20Talent.md)➡️
 # [Pillar 2 Processes and tools](Pillar%202%20Processes%20and%20tools.md)
 
-- "Processes and digital infrastructure enable secure cross-governmental integration and the use of data for the benefit of Canadians."[^1]
+- Processes and digital infrastructure enable secure cross-governmental integration and the use of data for the benefit of Canadians.
 # [Mission 1.2c](Mission%201.2c.md)
 Departments will implement frameworks and processes to ensure that data is considered at the outset of initiatives
 
@@ -81,6 +81,3 @@ Departments will implement TBS-published guidance on basic software toolkits, op
 
 
 
-## Footnotes
-
-[^1]: [2023–2026 Data Strategy for the Federal Public Service](./2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)
