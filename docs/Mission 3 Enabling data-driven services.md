@@ -9,7 +9,7 @@ tags:
 share: true
 ---
 [Missions (ds2026)](./Missions%20(ds2026).md)⤴️
-# Mission 3 Enabling data-driven services
+# [Mission 3 Enabling data-driven services](Mission%203%20Enabling%20data-driven%20services.md)
 Data flows securely where it is needed to improve user experience while maintaining trust
 # [Mission 3.1](Mission%203.1.md)
 - Drive service design, iterative service improvements, improved user experience and better outcomes through effective data flows
