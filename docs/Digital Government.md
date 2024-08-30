@@ -5,8 +5,8 @@ modified: 2024-08-30
 up: "[RESOURCE](./RESOURCE.md)"
 tags:
   - digital
-  - gcdata
   - ds2026
+  - gcdigital
   - index
 share: true
 ---
