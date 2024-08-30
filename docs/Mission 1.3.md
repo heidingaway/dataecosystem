@@ -5,14 +5,13 @@ modified: 2024-08-30
 up: "[Mission 1 Data by design](./Mission%201%20Data%20by%20design.md)"
 tags:
   - ds2026_mission
-  - ds2026
 share: true
 ---
 [Mission 1 Data by design](./Mission%201%20Data%20by%20design.md)⤴️
 # [Mission 1.3](Mission%201.3.md)
-## Description
+# Description
 Provide clear expectations from central agencies related to appropriate resource allocation for data needs and operations in program, policy, and service development
-## Subsections
+# Subsections
 # [Mission 1.3a](Mission%201.3a.md)
 Central agencies will enhance the data-related challenge function and require departments to strengthen the consideration of data in Memoranda to Cabinet and Treasury Board submissions
 
