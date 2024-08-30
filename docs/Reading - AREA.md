@@ -6,10 +6,11 @@ up: "[README](./README.md)"
 tags:
   - AREA
   - lit
+  - index
 share: true
 ---
 [README](./README.md)⤴️
 # Reading - AREA
 ## Incoming Links
-- [TBR](../TBR.md)
+- [TBR](./TBR.md)
 
