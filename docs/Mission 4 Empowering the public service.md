@@ -5,12 +5,11 @@ modified: 2024-08-30
 up: "[Missions (ds2026)](./Missions%20(ds2026).md)"
 tags:
   - ds2026_mission
-  - gcdata
   - ds2026
 share: true
 ---
 [Missions (ds2026)](./Missions%20(ds2026).md)⤴️
-# Mission 4 Empowering the public service
+# [Mission 4 Empowering the public service](Mission%204%20Empowering%20the%20public%20service.md)
 Teams are equipped and supported to effectively integrate the talent and tools they need
 
 # [Mission 4.2](Mission%204.2.md)
