@@ -8,7 +8,8 @@ up:
   - "[Accountabilities (TBS)(ds2026)](./Accountabilities%20(TBS)(ds2026).md)"
 tags:
   - ds2026_mission
-  - gc_entity
+  - ds2026
+  - ds2026_pillar
   - ds2026_mission_acc
 next: "[[Mission 1.1b]]"
 share: true
