@@ -3,14 +3,16 @@ title: Accountabilities (StatCan)(ds2026)
 created: 2024-08-30
 modified: 2024-08-30
 up:
-  - "[Missions (ds2026)](./Missions%20(ds2026).md)"
+  - "[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)"
   - "[Statistics Canada - Statistique Canada - StatCan - StatCan](Statistics%20Canada%20-%20Statistique%20Canada%20-%20StatCan%20-%20StatCan.md)"
 tags:
   - ds2026_mission_acc
+  - ds2026
+  - gcdigital
   - gc_entity
 share: true
 ---
-[Missions (ds2026)](./Missions%20(ds2026).md)⤴️ | [Statistics Canada - Statistique Canada - StatCan - StatCan](Statistics%20Canada%20-%20Statistique%20Canada%20-%20StatCan%20-%20StatCan.md)⤴️
+[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)⤴️ | [Statistics Canada - Statistique Canada - StatCan - StatCan](Statistics%20Canada%20-%20Statistique%20Canada%20-%20StatCan%20-%20StatCan.md)⤴️
 # [Accountabilities (StatCan)(ds2026)](Accountabilities%20(StatCan)(ds2026).md)
 # [Mission 2.2b](Mission%202.2b.md)
 
