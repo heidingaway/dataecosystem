@@ -11,7 +11,7 @@ share: true
 [Missions (ds2026)](./Missions%20(ds2026).md)⤴️
 # [Mission 1 Data by design](Mission%201%20Data%20by%20design.md)
 ## [Mission 1.1](./Mission%201.1.md)
-## Description
+# Description
 Clarify data leadership responsibilities within and across the Government of Canada
 # [Mission 1.1a](Mission%201.1a.md)
 
@@ -24,7 +24,7 @@ TBS will initiate a review of data responsibilities in the Treasury Board policy
 TBS will clarify roles and responsibilities, and interconnections between existing data bodies and activities
 
 ## [Mission 1.2](./Mission%201.2.md)
-## Description
+# Description
 Embed planning for data activities in policy, program, and service development, delivery, monitoring and evaluation
 # [Mission 1.2a](Mission%201.2a.md)
 Central Agencies will provide guidance for decision-makers on accounting for, planning for and resourcing data across the life cycle of an initiative, from program, service and policy conception through delivery and end-of-life
@@ -34,7 +34,7 @@ TBS will coordinate the development of training on raising the awareness of and 
 Departments will implement frameworks and processes to ensure that data is considered at the outset of initiatives
 
 ## [Mission 1.3](./Mission%201.3.md)
-## Description
+# Description
 Provide clear expectations from central agencies related to appropriate resource allocation for data needs and operations in program, policy, and service development
 # [Mission 1.3a](Mission%201.3a.md)
 Central agencies will enhance the data-related challenge function and require departments to strengthen the consideration of data in Memoranda to Cabinet and Treasury Board submissions
