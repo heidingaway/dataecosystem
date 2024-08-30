@@ -5,6 +5,8 @@ modified: 2024-08-29
 up: "[README](./README.md)"
 tags:
   - index
+  - gcdata
+  - ds2026
 share: true
 ---
 [README](./README.md)⤴️

@@ -7,6 +7,8 @@ up:
   - "[Privy Council Office - Bureau du Conseil privé - PCO - BCP](Privy%20Council%20Office%20-%20Bureau%20du%20Conseil%20priv%C3%A9%20-%20PCO%20-%20BCP.md)"
 tags:
   - ds2026_mission_acc
+  - gcdata
+  - ds2026
   - gc_entity
 share: true
 ---
