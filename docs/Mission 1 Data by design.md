@@ -10,7 +10,7 @@ share: true
 ---
 [Missions (ds2026)](./Missions%20(ds2026).md)⤴️
 # [Mission 1 Data by design](Mission%201%20Data%20by%20design.md)
-## [Mission 1.1](./Mission%201.1.md)
+# [Mission 1.1](./Mission%201.1.md)
 # Description
 Clarify data leadership responsibilities within and across the Government of Canada
 # [Mission 1.1a](Mission%201.1a.md)
