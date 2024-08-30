@@ -8,7 +8,6 @@ up:
   - "[Mission 1.1](./Mission%201.1.md)"
 tags:
   - ds2026_mission
-  - gcdata
   - ds2026
 share: true
 ---
