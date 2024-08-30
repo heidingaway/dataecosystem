@@ -2,11 +2,12 @@
 title: 1 Data Concepts and Culture
 created: 2024-08-19
 modified: 2024-08-26
-up: "[[Category (DCF)]]"
+up: "[Category (DCF)](./Category%20(DCF).md)"
 tags:
   - GCDCF_cat
 share: true
 ---
+[Category (DCF)](./Category%20(DCF).md)⤴️
 # [1 Data Concepts and Culture](1%20Data%20Concepts%20and%20Culture.md)
 - [1.1 Data, Digital and Organizational Awareness](./1.1%20Data,%20Digital%20and%20Organizational%20Awareness.md)
 - [1.2 Data Ethics and Privacy](./1.2%20Data%20Ethics%20and%20Privacy.md)
