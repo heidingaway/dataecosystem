@@ -4,6 +4,8 @@ created: 2024-08-08
 modified: 2024-08-29
 tags:
   - gc_entity
+  - gcdata
+  - ds2026
 up: "[[Ministerial Department]]"
 down: 
 next: 
@@ -12,6 +14,6 @@ share: true
 ---
 # Indigenous Services Canada - Services aux Autochtones Canada - ISC - SAC
 ## Incoming Links
-- [Mission 3.4b](../Mission%203.4b.md)
-- [Departments and Agencies](../Departments%20and%20Agencies.md)
+- [Accountabilities (ISC)(ds2026)](./Accountabilities%20(ISC)(ds2026).md)
+- [Departments and Agencies](Departments%20and%20Agencies.md)
 
