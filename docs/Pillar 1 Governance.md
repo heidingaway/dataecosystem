@@ -12,8 +12,8 @@ prev: "[Pillar 3 Talent](./Pillar%203%20Talent.md)"
 share: true
 ---
 ⬅️[Pillar 3 Talent](./Pillar%203%20Talent.md) | [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)⤴️ | [Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)➡️
-# Pillar 1 Governance
-Governance is effective and ensures that data is managed horizontally and holistically as a strategic asset.
+# [Pillar 1 Governance](Pillar%201%20Governance.md)
+- Governance is effective and ensures that data is managed horizontally and holistically as a strategic asset.
 # [Mission 1.1a](Mission%201.1a.md)
 
 Treasury Board of Canada Secretariat (TBS) will develop guidance on the roles and responsibilities of executives with accountabilities for data
