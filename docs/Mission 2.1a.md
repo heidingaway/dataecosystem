@@ -8,8 +8,8 @@ up:
   - "[Mission 2.1](./Mission%202.1.md)"
 tags:
   - ds2026_mission
-  - gc_entity
-  - ds2026_mission_acc
+  - ds2026
+  - ds2026_pillar
 share: true
 ---
 [Accountabilities (TBS)(ds2026)](./Accountabilities%20(TBS)(ds2026).md)⤴️ | [Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)⤴️ | [Mission 2.1](./Mission%202.1.md)⤴️

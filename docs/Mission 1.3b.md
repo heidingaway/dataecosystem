@@ -10,8 +10,7 @@ up:
   - "[Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)"
 tags:
   - ds2026_mission
-  - gc_entity
-  - ds2026_mission_acc
+  - ds2026
   - ds2026_pillar
 share: true
 ---
