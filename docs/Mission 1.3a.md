@@ -10,8 +10,7 @@ up:
   - "[Pillar 1 Governance](./Pillar%201%20Governance.md)"
 tags:
   - ds2026_mission
-  - gc_entity
-  - ds2026_mission_acc
+  - ds2026
   - ds2026_pillar
 share: true
 ---
