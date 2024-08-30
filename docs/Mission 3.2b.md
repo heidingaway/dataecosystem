@@ -10,8 +10,7 @@ up:
   - "[Accountabilities (Depts)(ds2026)](./Accountabilities%20(Depts)(ds2026).md)"
 tags:
   - ds2026_mission
-  - ds2026
-  - ds2026_pillar
+  - gc_entity
   - ds2026_mission_acc
 share: true
 ---
