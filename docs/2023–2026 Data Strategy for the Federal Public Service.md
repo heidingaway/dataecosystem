@@ -4,14 +4,14 @@ created: 2024-08-08
 modified: 2024-08-30
 up:
   - "[GC Digital Policy Suite](./GC%20Digital%20Policy%20Suite.md)"
-  - "[GC Data Ecosystem](GC%20Data%20Ecosystem.md)"
+  - "[GC Data Ecosystem](./GC%20Data%20Ecosystem.md)"
 tags:
   - ds2026
   - gcdata
 same: "[[Report to the Clerk of the Privy Council_ A Data Strategy Roadmap for the Federal Public Service]]"
 share: true
 ---
-[GC Digital Policy Suite](./GC%20Digital%20Policy%20Suite.md)⤴️ | [GC Data Ecosystem](GC%20Data%20Ecosystem.md)⤴️
+[GC Digital Policy Suite](./GC%20Digital%20Policy%20Suite.md)⤴️ | [GC Data Ecosystem](./GC%20Data%20Ecosystem.md)⤴️
 # 2023–2026 Data Strategy for the Federal Public Service
 ## Content
 - full text[^1]
@@ -36,7 +36,7 @@ share: true
 4. Support for Indigenous data sovereignty
 ## Accountabilities
 - up:: [Deputy Clerk of the Privy Council and Associate Secretary to the Cabinet](Deputy%20Clerk%20of%20the%20Privy%20Council%20and%20Associate%20Secretary%20to%20the%20Cabinet.md)
-- up:: [Chief Data Officer (Canada) (CDO)](Chief%20Data%20Officer%20(Canada)%20(CDO).md) via the Chief Information Officer
+- up:: [Chief Data Officer (Canada) (CDO)](./Chief%20Data%20Officer%20(Canada)%20(CDO).md) via the Chief Information Officer
 - up:: [Chief Statistician of Canada](Chief%20Statistician%20of%20Canada.md)
 ## Footnotes
 
