@@ -4,6 +4,8 @@ created: 2024-08-15
 modified: 2024-08-28
 tags:
   - UK-DMM
+  - index
+  - PROJECT
 up: "[UK Government Data Maturity Model (UK-DMM) - PROJECT](./UK%20Government%20Data%20Maturity%20Model%20(UK-DMM)%20-%20PROJECT.md)"
 share: true
 ---

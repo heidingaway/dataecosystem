@@ -4,6 +4,9 @@ created: 2024-08-15
 modified: 2024-08-28
 tags:
   - UK-DMM_topics
+  - index
+  - PROJECT
+  - UK-DMM
 up: "[[Topics (UK-DMM)]]"
 next: "[[Topic 3 Having the right systems]]"
 share: true
