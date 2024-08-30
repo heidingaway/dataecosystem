@@ -7,6 +7,7 @@ up:
   - "[GC Data Ecosystem](./GC%20Data%20Ecosystem.md)"
 tags:
   - ds2026
+  - gcdigital
   - gcdata
 same: "[[Report to the Clerk of the Privy Council_ A Data Strategy Roadmap for the Federal Public Service]]"
 share: true
@@ -21,7 +22,7 @@ share: true
 	- [Data as an asset](./Data%20as%20an%20asset.md)
 		- [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)
 ## Framework
-
+![Pasted image 20240813144613.png](./Pasted%20image%2020240813144613.png)
 ## Guiding Principles
 1. Purposeful
 2. Client-centred
