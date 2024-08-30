@@ -9,6 +9,7 @@ up:
 tags:
   - ds2026_mission
   - ds2026
+  - ds2026_pillar
   - ds2026_mission_acc
 next: "[[Mission 1.1b]]"
 share: true
