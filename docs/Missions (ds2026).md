@@ -4,8 +4,8 @@ created: 2024-08-13
 modified: 2024-08-30
 up: "[2023–2026 Data Strategy for the Federal Public Service](./2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)"
 tags:
-  - ds2026_mission
   - ds2026
+  - gcdigital
 share: true
 ---
 [2023–2026 Data Strategy for the Federal Public Service](./2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)⤴️
@@ -19,9 +19,9 @@ share: true
 ## By Accountabilities
 - [Accountabilities (TBS)(ds2026)](./Accountabilities%20(TBS)(ds2026).md)
 - [Accountabilities (StatCan)(ds2026)](./Accountabilities%20(StatCan)(ds2026).md)
-- [Accountabilities (SSC)(ds2026)](./Accountabilities%20(SSC)(ds2026).md)
 - [Accountabilities (ISC)(ds2026)](./Accountabilities%20(ISC)(ds2026).md)
 - [Accountabilities (Depts)(ds2026)](./Accountabilities%20(Depts)(ds2026).md)
-- [Accountabilities (FIN)(ds2026)](./Accountabilities%20(FIN)(ds2026).md)
 - [Accountabilities (PCO)(ds2026)](./Accountabilities%20(PCO)(ds2026).md)
+- [Accountabilities (SSC)(ds2026)](./Accountabilities%20(SSC)(ds2026).md)
+- [Accountabilities (FIN)(ds2026)](./Accountabilities%20(FIN)(ds2026).md)
 
