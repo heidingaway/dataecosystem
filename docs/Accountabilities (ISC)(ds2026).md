@@ -7,6 +7,8 @@ up:
   - "[Indigenous Services Canada - Services aux Autochtones Canada - ISC - SAC](./Indigenous%20Services%20Canada%20-%20Services%20aux%20Autochtones%20Canada%20-%20ISC%20-%20SAC.md)"
 tags:
   - ds2026_mission_acc
+  - ds2026
+  - gcdigital
   - gc_entity
 share: true
 ---
@@ -17,3 +19,4 @@ TBS, supported by ISC, will progress the development of government-wide standard
 
 # [Mission 3.4b](Mission%203.4b.md)
 ISC, in collaboration with Indigenous partners, will establish guidelines on training opportunities focusing on Indigenous-led training related to Indigenous Data Sovereignty
+
