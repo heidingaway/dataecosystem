@@ -15,8 +15,9 @@ share: true
 - full text[^1]
 - [Purpose (ds2026)](./Purpose%20(ds2026).md)
 - [Missions (ds2026)](./Missions%20(ds2026).md)
-- [Data as an asset](./Data%20as%20an%20asset.md)
-	- [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)
+- [Data Culture](Data%20Culture.md), [Data Communication](Data%20Communication.md), [Change Management](Change%20Management.md)
+	- [Data as an asset](./Data%20as%20an%20asset.md)
+		- [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)
 ## Framework
 
 ## Guiding Principles
