@@ -9,7 +9,7 @@ up:
 tags:
   - ds2026_mission
   - ds2026
-  - ds2026_pillar
+  - gcdigital
   - ds2026_mission_acc
 share: true
 ---
