@@ -18,7 +18,7 @@ share: true
 - [Community of Practice on Data and Information (CPDI)](Community%20of%20Practice%20on%20Data%20and%20Information%20(CPDI).md)
 
 ## [Resources](./RESOURCE.md)
-- [Second Brain - RESOURCE](Second%20Brain%20-%20RESOURCE.md)
+- [Second Brain](Second%20Brain.md)
 - [Project Management - RESOURCE](./Project%20Management%20-%20RESOURCE.md)
 - [pap - RESOURCE](./pap%20-%20RESOURCE.md)
 - [Digital Government](./Digital%20Government.md)
