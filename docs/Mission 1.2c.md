@@ -13,5 +13,5 @@ tags:
 share: true
 ---
 [Mission 1.2](./Mission%201.2.md)⤴️ | [Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)⤴️ | [Accountabilities (Depts)(ds2026)](./Accountabilities%20(Depts)(ds2026).md)⤴️
-# [Mission 1.2c](Mission%201.2c.md)
+### [Mission 1.2c](Mission%201.2c.md)
 Departments will implement frameworks and processes to ensure that data is considered at the outset of initiatives
