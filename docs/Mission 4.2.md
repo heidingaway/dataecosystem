@@ -5,7 +5,6 @@ modified: 2024-08-30
 up: "[Mission 4 Empowering the public service](./Mission%204%20Empowering%20the%20public%20service.md)"
 tags:
   - ds2026_mission
-  - gcdata
   - ds2026
 share: true
 ---
