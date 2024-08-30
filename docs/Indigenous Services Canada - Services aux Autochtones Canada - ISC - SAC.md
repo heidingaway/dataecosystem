@@ -4,8 +4,8 @@ created: 2024-08-08
 modified: 2024-08-29
 tags:
   - gc_entity
-  - gcdata
   - ds2026
+  - gcdigital
 up: "[[Ministerial Department]]"
 down: 
 next: 
