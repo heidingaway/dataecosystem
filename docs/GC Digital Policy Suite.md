@@ -6,6 +6,7 @@ up:
   - "[Digital Government](./Digital%20Government.md)"
 tags:
   - gcdigital
+  - ds2026
   - digital
 share: true
 ---
