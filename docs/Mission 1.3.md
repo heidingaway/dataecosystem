@@ -6,6 +6,7 @@ up: "[Mission 1 Data by design](./Mission%201%20Data%20by%20design.md)"
 tags:
   - ds2026_mission
   - ds2026
+  - gcdigital
 share: true
 ---
 [Mission 1 Data by design](./Mission%201%20Data%20by%20design.md)⤴️

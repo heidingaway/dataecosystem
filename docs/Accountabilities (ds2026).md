@@ -13,8 +13,8 @@ share: true
 - [Accountabilities (StatCan)(ds2026)](./Accountabilities%20(StatCan)(ds2026).md)
 - [Accountabilities (ISC)(ds2026)](./Accountabilities%20(ISC)(ds2026).md)
 - [Accountabilities (Depts)(ds2026)](./Accountabilities%20(Depts)(ds2026).md)
+- [Accountabilities (TBS)(ds2026)](./Accountabilities%20(TBS)(ds2026).md)
 - [Accountabilities (PCO)(ds2026)](./Accountabilities%20(PCO)(ds2026).md)
 - [Accountabilities (SSC)(ds2026)](./Accountabilities%20(SSC)(ds2026).md)
 - [Accountabilities (FIN)(ds2026)](./Accountabilities%20(FIN)(ds2026).md)
-- [Accountabilities (TBS)(ds2026)](./Accountabilities%20(TBS)(ds2026).md)
 

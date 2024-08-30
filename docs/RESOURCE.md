@@ -5,8 +5,8 @@ modified: 2024-08-26
 up: "[README](./README.md)"
 tags:
   - index
-  - gcdata
   - ds2026
+  - gcdigital
 ---
 [README](./README.md)⤴️
 # RESOURCE

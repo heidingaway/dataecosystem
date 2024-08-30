@@ -3,14 +3,16 @@ title: Accountabilities (Depts)(ds2026)
 created: 2024-08-30
 modified: 2024-08-30
 up:
-  - "[Missions (ds2026)](./Missions%20(ds2026).md)"
+  - "[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)"
   - "[Ministerial Department](Ministerial%20Department.md)"
 tags:
   - ds2026_mission_acc
+  - ds2026
+  - gcdigital
   - gc_entity
 share: true
 ---
-[Missions (ds2026)](./Missions%20(ds2026).md)⤴️ | [Ministerial Department](Ministerial%20Department.md)⤴️
+[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)⤴️ | [Ministerial Department](Ministerial%20Department.md)⤴️
 # [Accountabilities (Depts)(ds2026)](Accountabilities%20(Depts)(ds2026).md)
 # [Mission 1.2c](Mission%201.2c.md)
 Departments will implement frameworks and processes to ensure that data is considered at the outset of initiatives
@@ -30,3 +32,4 @@ PCO, TBS and departments will work with partners to explore opportunities to enh
 # [Mission 4.3a](Mission%204.3a.md)
 
 Departments will implement TBS-published guidance on basic software toolkits, open-source approaches, and repositories that should be available to all who need them
+

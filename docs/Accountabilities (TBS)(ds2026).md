@@ -7,6 +7,8 @@ up:
   - "[Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT](Treasury%20Board%20of%20Canada%20Secretariat%20-%20Secr%C3%A9tariat%20du%20Conseil%20du%20Tr%C3%A9sor%20du%20Canada%20-%20TBS%20-%20SCT.md)"
 tags:
   - ds2026_mission_acc
+  - ds2026
+  - gcdigital
   - gc_entity
 share: true
 ---

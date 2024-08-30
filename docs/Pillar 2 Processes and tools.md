@@ -6,6 +6,7 @@ up: "[Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)"
 tags:
   - ds2026_pillar
   - ds2026
+  - gcdigital
 next: "[Pillar 3 Talent](./Pillar%203%20Talent.md)"
 prev: "[Pillar 1 Governance](./Pillar%201%20Governance.md)"
 share: true

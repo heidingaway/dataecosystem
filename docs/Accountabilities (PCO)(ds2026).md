@@ -3,14 +3,16 @@ title: Accountabilities (PCO)(ds2026)
 created: 2024-08-30
 modified: 2024-08-30
 up:
-  - "[Missions (ds2026)](./Missions%20(ds2026).md)"
+  - "[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)"
   - "[Privy Council Office - Bureau du Conseil privé - PCO - BCP](Privy%20Council%20Office%20-%20Bureau%20du%20Conseil%20priv%C3%A9%20-%20PCO%20-%20BCP.md)"
 tags:
   - ds2026_mission_acc
+  - ds2026
+  - gcdigital
   - gc_entity
 share: true
 ---
-[Missions (ds2026)](./Missions%20(ds2026).md)⤴️ | [Privy Council Office - Bureau du Conseil privé - PCO - BCP](Privy%20Council%20Office%20-%20Bureau%20du%20Conseil%20priv%C3%A9%20-%20PCO%20-%20BCP.md)⤴️
+[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)⤴️ | [Privy Council Office - Bureau du Conseil privé - PCO - BCP](Privy%20Council%20Office%20-%20Bureau%20du%20Conseil%20priv%C3%A9%20-%20PCO%20-%20BCP.md)⤴️
 # [Accountabilities (PCO)(ds2026)](Accountabilities%20(PCO)(ds2026).md)
 # [Mission 1.2a](Mission%201.2a.md)
 Central Agencies will provide guidance for decision-makers on accounting for, planning for and resourcing data across the life cycle of an initiative, from program, service and policy conception through delivery and end-of-life

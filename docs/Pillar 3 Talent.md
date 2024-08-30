@@ -7,6 +7,7 @@ up:
 tags:
   - datastrategy2026_pillar
   - ds2026
+  - gcdigital
 next: "[Pillar 1 Governance](./Pillar%201%20Governance.md)"
 prev: "[Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)"
 share: true

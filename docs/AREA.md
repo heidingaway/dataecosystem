@@ -5,8 +5,8 @@ modified: 2024-08-26
 up: "[[README]]"
 tags:
   - index
-  - gcdata
   - ds2026
+  - gcdigital
 ---
 # AREA
 - [we are data people](./we%20are%20data%20people.md)

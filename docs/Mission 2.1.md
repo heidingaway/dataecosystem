@@ -6,6 +6,7 @@ up: "[Mission 2 Data for decision-making](./Mission%202%20Data%20for%20decision-
 tags:
   - ds2026_mission
   - ds2026
+  - gcdigital
 share: true
 ---
 [Mission 2 Data for decision-making](./Mission%202%20Data%20for%20decision-making.md)⤴️

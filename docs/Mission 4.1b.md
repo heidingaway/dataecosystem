@@ -7,7 +7,8 @@ up:
   - "[Accountabilities (TBS)(ds2026)](Accountabilities%20(TBS)(ds2026).md)"
 tags:
   - ds2026_mission
-  - gc_entity
+  - ds2026
+  - gcdigital
   - ds2026_mission_acc
 pillar: "[[Pillar 3 Talent]]"
 share: true

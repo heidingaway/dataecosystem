@@ -6,6 +6,7 @@ up: "[Missions (ds2026)](./Missions%20(ds2026).md)"
 tags:
   - ds2026_mission
   - ds2026
+  - gcdigital
 share: true
 ---
 [Missions (ds2026)](./Missions%20(ds2026).md)⤴️

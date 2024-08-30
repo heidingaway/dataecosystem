@@ -7,6 +7,7 @@ up:
 tags:
   - gcdata
   - ds2026
+  - gcdigital
   - AREA
   - GCDC
 share: true
@@ -18,6 +19,6 @@ share: true
 - [GC Data Community Team (GCDC)](GC%2520Data%2520Community%2520Team%2520(GCDC).md.md#)
 - [GC Data Challenge](./GC%20Data%20Challenge.md)
 - [Chief Statistician of Canada](Chief%20Statistician%20of%20Canada.md)
-- [Chief Data Officer (Canada) (CDO)](./Chief%20Data%20Officer%20(Canada)%20(CDO).md)
+- [Chief Data Officer (Canada) (CDO)](Chief%20Data%20Officer%20(Canada)%20(CDO).md)
 - [2023–2026 Data Strategy for the Federal Public Service](./2023%E2%80%932026%20Data%20Strategy%20for%20the%20Federal%20Public%20Service.md)
 
