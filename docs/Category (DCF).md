@@ -5,9 +5,6 @@ modified: 2024-08-20
 up: "[[Government of Canada Data Competency Framework (DDN3‑J03) (DCF)]]"
 tags:
   - GCDCF_cat
-  - GCDC
-  - prototype
-  - AREA
   - lit
   - GCDCF
 ---
