@@ -14,25 +14,25 @@ share: true
 ⬅️[Pillar 3 Talent](./Pillar%203%20Talent.md) | [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)⤴️ | [Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)➡️
 # Pillar 1 Governance
 Governance is effective and ensures that data is managed horizontally and holistically as a strategic asset.
-### [Mission 1.1a](Mission%201.1a.md)
+# [Mission 1.1a](Mission%201.1a.md)
 
 Treasury Board of Canada Secretariat (TBS) will develop guidance on the roles and responsibilities of executives with accountabilities for data
 
-### [Mission 1.1b](Mission%201.1b.md)
+# [Mission 1.1b](Mission%201.1b.md)
 
 TBS will initiate a review of data responsibilities in the Treasury Board policy suite
 
-## [Mission 1.1c](Mission%201.1c.md)
+# [Mission 1.1c](Mission%201.1c.md)
 
 TBS will clarify roles and responsibilities, and interconnections between existing data bodies and activities
 
-### [Mission 1.2a](Mission%201.2a.md)
+# [Mission 1.2a](Mission%201.2a.md)
 Central Agencies will provide guidance for decision-makers on accounting for, planning for and resourcing data across the life cycle of an initiative, from program, service and policy conception through delivery and end-of-life
 
-### [Mission 1.2b](Mission%201.2b.md)
+# [Mission 1.2b](Mission%201.2b.md)
 TBS will coordinate the development of training on raising the awareness of and familiarity with planning for data at the outset of initiatives for teams responsible for policy, program or service development and delivery
 
-### [Mission 1.3a](Mission%201.3a.md)
+# [Mission 1.3a](Mission%201.3a.md)
 Central agencies will enhance the data-related challenge function and require departments to strengthen the consideration of data in Memoranda to Cabinet and Treasury Board submissions
 
 # [Mission 2.1b](Mission%202.1b.md)
