@@ -4,6 +4,9 @@ created: 2024-08-08
 modified: 2024-08-28
 tags:
   - UK-DMM_topics
+  - index
+  - PROJECT
+  - UK-DMM
 up:
   - "[Topics (UK-DMM)](Topics%20(UK-DMM).md)"
 next: "[[Topic 2 Having the right data skills and knowledge]]"
