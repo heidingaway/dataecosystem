@@ -7,6 +7,7 @@ up:
 tags:
   - ds2026_pillar
   - ds2026
+  - gcdigital
 next: "[Pillar 2 Processes and tools](./Pillar%202%20Processes%20and%20tools.md)"
 prev: "[Pillar 3 Talent](./Pillar%203%20Talent.md)"
 share: true
