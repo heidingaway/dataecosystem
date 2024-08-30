@@ -11,9 +11,9 @@ share: true
 [Mission 1 Data by design](./Mission%201%20Data%20by%20design.md)⤴️
 # [Mission 1.2](Mission%201.2.md)
 
-## Description
+# Description
 Embed planning for data activities in policy, program, and service development, delivery, monitoring and evaluation
-## Subsection
+# Subsection
 # [Mission 1.2a](Mission%201.2a.md)
 Central Agencies will provide guidance for decision-makers on accounting for, planning for and resourcing data across the life cycle of an initiative, from program, service and policy conception through delivery and end-of-life
 
