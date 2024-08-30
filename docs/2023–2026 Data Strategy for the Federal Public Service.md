@@ -16,12 +16,16 @@ share: true
 # 2023–2026 Data Strategy for the Federal Public Service
 ## Content
 - full text[^1]
-- [Purpose (ds2026)](./Purpose%20(ds2026).md)
 - [Missions (ds2026)](./Missions%20(ds2026).md)
 - [Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)
 - [Data Culture](Data%20Culture.md), [Data Communication](Data%20Communication.md), [Change Management](Change%20Management.md)
 	- [Data as an asset](./Data%20as%20an%20asset.md)
 		- [Foundational Pillars (ds2026)](./Foundational%20Pillars%20(ds2026).md)
+## Purpose
+- outlines the current policy landscape that relates to data
+- describes a long-term strategic vision
+- identifies actions over the next three years that will move the public service closer to that goal
+- highlights real-world case studies that demonstrate value for Canadians because of the better use of data
 ## Framework
 ![Pasted image 20240813144613.png](./Pasted%20image%2020240813144613.png)
 ## Guiding Principles
