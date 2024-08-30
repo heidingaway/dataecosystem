@@ -2,12 +2,14 @@
 title: Mission 4 Empowering the public service
 created: 2024-08-13
 modified: 2024-08-30
-up: "[Missions (datastrategy2026)](./Missions%20(datastrategy2026).md)"
+up: "[Missions (ds2026)](./Missions%20(ds2026).md)"
 tags:
-  - datastrategy2026_mission
+  - ds2026_mission
+  - gcdata
+  - ds2026
 share: true
 ---
-[Missions (datastrategy2026)](./Missions%20(datastrategy2026).md)⤴️
+[Missions (ds2026)](./Missions%20(ds2026).md)⤴️
 # Mission 4 Empowering the public service
 Teams are equipped and supported to effectively integrate the talent and tools they need
 
