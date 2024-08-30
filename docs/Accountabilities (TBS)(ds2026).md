@@ -3,14 +3,14 @@ title: Accountabilities (TBS)(ds2026)
 created: 2024-08-30
 modified: 2024-08-30
 up:
-  - "[Missions (ds2026)](./Missions%20(ds2026).md)"
+  - "[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)"
   - "[Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT](Treasury%20Board%20of%20Canada%20Secretariat%20-%20Secr%C3%A9tariat%20du%20Conseil%20du%20Tr%C3%A9sor%20du%20Canada%20-%20TBS%20-%20SCT.md)"
 tags:
   - ds2026_mission_acc
   - gc_entity
 share: true
 ---
-[Missions (ds2026)](./Missions%20(ds2026).md)⤴️ | [Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT](Treasury%20Board%20of%20Canada%20Secretariat%20-%20Secr%C3%A9tariat%20du%20Conseil%20du%20Tr%C3%A9sor%20du%20Canada%20-%20TBS%20-%20SCT.md)⤴️
+[Accountabilities (ds2026)](./Accountabilities%20(ds2026).md)⤴️ | [Treasury Board of Canada Secretariat - Secrétariat du Conseil du Trésor du Canada - TBS - SCT](Treasury%20Board%20of%20Canada%20Secretariat%20-%20Secr%C3%A9tariat%20du%20Conseil%20du%20Tr%C3%A9sor%20du%20Canada%20-%20TBS%20-%20SCT.md)⤴️
 # [Accountabilities (TBS)(ds2026)](Accountabilities%20(TBS)(ds2026).md)
 # [Mission 1.1a](Mission%201.1a.md)
 
