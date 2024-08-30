@@ -9,7 +9,8 @@ up:
   - "[Pillar 3 Talent](./Pillar%203%20Talent.md)"
 tags:
   - ds2026_mission
-  - ds2026
+  - gc_entity
+  - ds2026_mission_acc
   - datastrategy2026_pillar
 share: true
 ---
