@@ -1,14 +1,15 @@
 ---
 title: Departments and Agencies (def)
 created: 2024-09-03
-modified: 2024-09-03
+modified: 2024-09-04
 up:
-  - "[Glossary (gcdata)](Glossary%20(gcdata).md)"
+  - "[Glossary (gcdata)](./Glossary%20(gcdata).md)"
 tags:
   - gcdata
 same: "[[Ministerial Department (def)]]"
 share: true
 ---
+[Glossary (gcdata)](./Glossary%20(gcdata).md)⤴️
 # [Departments and Agencies (def)](Departments%20and%20Agencies%20(def).md)
 - [Accessibility Standards Canada - Normes d'accessibilité Canada - ASC - NAC](Accessibility%20Standards%20Canada%20-%20Normes%20d'accessibilit%C3%A9%20Canada%20-%20ASC%20-%20NAC.md)
 - [Administrative Tribunals Support Service of Canada - Service canadien d'appui aux tribunaux administratifs - ATSSC - SCDATA](Administrative%20Tribunals%20Support%20Service%20of%20Canada%20-%20Service%20canadien%20d'appui%20aux%20tribunaux%20administratifs%20-%20ATSSC%20-%20SCDATA.md)
