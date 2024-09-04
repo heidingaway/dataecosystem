@@ -1,22 +1,22 @@
 ---
 title: GC Data Ecosystem
 created: 2024-08-13
-modified: 2024-08-30
+modified: 2024-09-04
 up:
-  - "[GC Data Community Team (GCDC)](GC%2520Data%2520Community%2520Team%2520(GCDC).md#)"
+  - "[RESOURCE](RESOURCE.md)"
 tags:
   - gcdata
-  - ds2026
-  - gcdigital
-  - AREA
-  - GCDC
+  - index
 share: true
 ---
 # [GC Data Ecosystem](GC%20Data%20Ecosystem.md)
-- [Work Description Template - Chief Data Officer - PROJECT](./Work%20Description%20Template%20-%20Chief%20Data%20Officer%20-%20PROJECT.md)
-- [Unified Data and Information Lifecycle - RESOURCE](./Unified%20Data%20and%20Information%20Lifecycle%20-%20RESOURCE.md)
+- [Unified Data and Information Lifecycle](./Unified%20Data%20and%20Information%20Lifecycle.md)
+- [Government of Canada Data Competency Framework (DDN3‑J03) (DCF)](./Government%20of%20Canada%20Data%20Competency%20Framework%20(DDN3%E2%80%91J03)%20(DCF).md)
+- [Glossary (gcdata)](./Glossary%20(gcdata).md)
+- [GC Digital Policy Suite](./GC%20Digital%20Policy%20Suite.md)
 - [GC Data Standards](./GC%20Data%20Standards.md)
-- [GC Data Community Team (GCDC)](GC%2520Data%2520Community%2520Team%2520(GCDC).md.md#)
+- [GC Data Community](./GC%20Data%20Community.md)
+- [GC Data Community Team (GCDC)](GC%20Data%20Community%20Team%20(GCDC).md)
 - [GC Data Challenge](./GC%20Data%20Challenge.md)
 - [Chief Statistician of Canada](Chief%20Statistician%20of%20Canada.md)
 - [Chief Data Officer (Canada) (CDO)](Chief%20Data%20Officer%20(Canada)%20(CDO).md)
