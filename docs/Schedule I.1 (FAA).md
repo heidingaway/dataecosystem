@@ -6,7 +6,7 @@ up:
   - "[Financial Administration Act](Financial%20Administration%20Act.md)"
   - "[Departments and Agencies (def)](./Departments%20and%20Agencies%20(def).md)"
 tags:
-  - gc_entity
+  - org_type
   - gcdata
 next:
   - "[Schedule II (FAA)](./Schedule%20II%20(FAA).md)"
@@ -15,7 +15,6 @@ share: true
 ⬅️[Schedule I (FAA)](./Schedule%20I%20(FAA).md) | [Departments and Agencies (def)](./Departments%20and%20Agencies%20(def).md)⤴️ | [Financial Administration Act](Financial%20Administration%20Act.md)⤴️ | [Schedule II (FAA)](./Schedule%20II%20(FAA).md)➡️
 # Schedule I.1 (FAA)
 ## Related
-- [Schedule I (FAA)](./Schedule%20I%20(FAA).md)
 - [Registrar of the Supreme Court of Canada - Registraire de la Cour suprême du Canada - SCC - CSC](./Registrar%20of%20the%20Supreme%20Court%20of%20Canada%20-%20Registraire%20de%20la%20Cour%20supr%C3%AAme%20du%20Canada%20-%20SCC%20-%20CSC.md)
 - [Veterans Review and Appeal Board - Tribunal des anciens combattants (révision et appel) - VRAB - TACRA](./Veterans%20Review%20and%20Appeal%20Board%20-%20Tribunal%20des%20anciens%20combattants%20(r%C3%A9vision%20et%20appel)%20-%20VRAB%20-%20TACRA.md)
 - [Statistics Canada - Statistique Canada - StatCan - StatCan](./Statistics%20Canada%20-%20Statistique%20Canada%20-%20StatCan%20-%20StatCan.md)
