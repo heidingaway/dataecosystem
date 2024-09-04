@@ -20,7 +20,6 @@ share: true
 ## [Resources](./RESOURCE.md)
 - [PAP](./PAP.md)
 - [Project Management](./Project%20Management.md)
-- [Data](./Data.md)
 - [Second Brain](Second%20Brain.md)
 - [GC Data Ecosystem](./GC%20Data%20Ecosystem.md)
 - [Digital Government](./Digital%20Government.md)
