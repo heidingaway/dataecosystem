@@ -4,8 +4,6 @@ created: 2024-08-08
 modified: 2024-08-29
 tags:
   - index
-  - ds2026
-  - gcdigital
 share: true
 ---
 # README - Heidi's Second Brain
@@ -20,11 +18,12 @@ share: true
 - [Community of Practice on Data and Information (CPDI)](Community%20of%20Practice%20on%20Data%20and%20Information%20(CPDI).md)
 
 ## [Resources](./RESOURCE.md)
-- [Change Management](Change%20Management.md)
+- [PAP](./PAP.md)
+- [Project Management](./Project%20Management.md)
+- [Data](./Data.md)
 - [Second Brain](Second%20Brain.md)
-- [Project Management - RESOURCE](./Project%20Management%20-%20RESOURCE.md)
-- [pap - RESOURCE](./pap%20-%20RESOURCE.md)
+- [GC Data Ecosystem](./GC%20Data%20Ecosystem.md)
 - [Digital Government](./Digital%20Government.md)
-- [Data - RESOURCE](./Data%20-%20RESOURCE.md)
+- [Change Management](Change%20Management.md)
 - [Accessibility](./Accessibility.md)
 
