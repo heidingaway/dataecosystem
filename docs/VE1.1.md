@@ -8,6 +8,6 @@ tags:
 next: "[VE1.2](./VE1.2.md)"
 share: true
 ---
-[VE1 Respect for Democracy](./VE1%20Respect%20for%20Democracy.md)⤴️ | [VE1.2](./VE1.2.md)➡️
+⬅️[VE5.3](./VE5.3.md) | [VE1 Respect for Democracy](./VE1%20Respect%20for%20Democracy.md)⤴️ | [VE1.2](./VE1.2.md)➡️
 # [VE1.1](VE1.1.md)
 Respecting the rule of law and carrying out their duties in accordance with legislation, policies and directives in a non-partisan and impartial manner.
